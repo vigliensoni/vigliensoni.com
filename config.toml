@@ -1,4 +1,4 @@
-baseurl = "https://vigliensoni.github.io/vigliensoni-hg/"
+baseURL = "https://vigliensoni.github.io/vigliensoni-hg/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"

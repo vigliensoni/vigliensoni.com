@@ -3,29 +3,23 @@ showonlyimage = false
 draft = false
 image = "img/covers/le-regne-800.jpg"
 date = "2022-05-04T19:59:22+05:30"
-title = "Le Règne Animal (2015)"
+title = "Le Règne Animal (2014)"
 weight = 8
 +++
 
 
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Composed and produced by Gabriel Vigliensoni
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Mastered by Bob Macc @ Subvert Central Mastering
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+Cover by Antonia Hernández.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Special thanks to Antonia Hernández, Jason Hockman, Eduardo Noya, Matías Reyes, Simon Plouf, and Justina Uribe.
 
-## Header Level 2
+A Magical Substance release, AMS-002
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+© 2014 Gabriel Vigliensoni ℗ 2014 A Magical Substance
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+[MusicBrainz](https://musicbrainz.org/release-group/709bf4b9-e2ed-45ba-b34a-15d89e6c69fd) | [Discogs](https://www.discogs.com/Gabriel-Vigliensoni-Le-R%C3%A8gne-Animal/release/6223029)

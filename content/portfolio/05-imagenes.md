@@ -3,29 +3,22 @@ image = "img/covers/imagenes-800.jpg"
 showonlyimage = false
 draft = false
 date = "2022-05-04T19:53:42+05:30"
-title = "Imágenes Paganas"
+title = "Imágenes Paganas (2016)"
 weight = 5
 +++
 
 
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Produced and performed by Gabriel Vigliensoni
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Composed by Federico Moura, Daniel Sbarra, Roberto Jacobi, and Enrique Mugetti
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+Original track appears in Virus Vivo (CBS, 1996)
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+A Magical Substance release, AMS-005
 
-## Header Level 2
+© 1996 Federico Moura, Daniel Sbarra, Roberto Jacobi, and Enrique Mugetti ℗ 2015 A Magical Substance
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+[MusicBrainz](https://musicbrainz.org/release-group/73331043-6241-4dc0-8871-1b7708da1596) | [Discogs](https://www.discogs.com/Gabriel-Vigliensoni-Im%C3%A1genes-Paganas/release/7938684)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  

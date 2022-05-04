@@ -3,29 +3,28 @@ draft = false
 image = "img/covers/jaguar-800.jpg"
 showonlyimage = false
 date = "2022-05-04T20:02:19+05:30"
-title = "Jaguar (2016)"
+title = "Jaguar (2015)"
 weight = 5
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Compositions and words by Gabriel Vigliensoni
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Composed and recorded January-June, 2015
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+Performers on Jaguar are Eduardo Caces, bass guitar, Evan Magoni, snare drum and Fran González, hand claps; performers on Metal are David Romblom, electric piano, Eduardo Caces, bass guitar and Marcelo Muñoz, electric guitar
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Mixed by Gabriel Vigliensoni with assistance from Peter Woodford at The Bottle Garden, Montréal
 
-## Header Level 2
+Mastered by Richard White at Breakglass Studios, Montréal
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Artwork by Antonia Hernández
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Gabriel Vigliensoni wishes to thank Antonia Hernández, Charalampos Saitis, Cristóbal Saavedra, David Romblon, Eduardo Caces, Esteban Maestre, Evan Magoni, Fran González, Manuela Martelli, Marcelo Muñoz, Marko Timlin, Reiner Krämer, Ronnie Araya, Tristan Bayfield, and Vito Vigliensoni.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+A Clang release (CLANG029)
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+© 2015 Gabriel Vigliensoni ℗ 2015 Clang Records
+
+[MusicBrainz](https://musicbrainz.org/release-group/8ef45c3a-f7d8-4631-970d-67062d8d4086) | [Discogs](https://www.discogs.com/Vigliensoni-Jaguar/release/7565528)

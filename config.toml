@@ -47,22 +47,36 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "About"
+  name = "About me"
   url = "about/"
+
+  [[params.navlinks]]
+  name = "Publications"
+  url = "publications/"
+
+  [[params.navlinks]]
+  name = "Video"
+  url = "video/"
+
+  [[params.navlinks]]
+  name = "Clastic Music"
+  url = "clastic-music/"
 
   [[params.navlinks]]
   name = "Get in touch"
   url = "contact/"
 
+
+
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
+  email         = "gabriel@vigliensoni.com"
+  facebook      = "https://facebook.com/vigliensoni"
   instagram     = "https://instagram.com/vigliensoni"
-  github        = "full profile url in github"
-  gitlab        = "full profile url in gitlab"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+  github        = "https://github.com/vigliensoni"
+  # googleplus    = "full profile url in googleplus"
+  # twitter       = "full profile url in twitter"
+  # linkedin      = "full profile url in linkedin"
+  # stackoverflow = "full profile url in stackoverflow"
+  # gitlab        = "full profile url in gitlab"
+  # youtube       = "https://youtube.com/bambihustler"
+  # whatsapp      = "wa.me service link"

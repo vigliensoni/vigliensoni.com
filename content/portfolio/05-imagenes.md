@@ -1,13 +1,13 @@
 +++
-draft = false
-image = ""
+image = "img/covers/imagenes-800.jpg"
 showonlyimage = false
-date = "2016-11-05T19:50:47+05:30"
-title = "Item without image"
-weight = 4
+draft = false
+date = "2022-05-04T19:53:42+05:30"
+title = "Imágenes Paganas"
+weight = 5
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.

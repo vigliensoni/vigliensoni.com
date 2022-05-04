@@ -1,8 +1,8 @@
 +++
-date = "2016-11-05T19:41:01+05:30"
+date = "2022-05-04T19:41:01+05:30"
 title = "Clastic Music (2022)"
 draft = false
-image = "img/clastic-cover-800.jpg"
+image = "img/covers/clastic-cover-800.jpg"
 showonlyimage = false
 weight = 1
 +++

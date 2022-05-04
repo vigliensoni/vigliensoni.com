@@ -1,10 +1,10 @@
 +++
-draft = false
-image = ""
-date = "2016-11-05T19:56:17+05:30"
-title = "Name of the work 6"
+image = "img/covers/clastic-edit-500.jpg"
 showonlyimage = false
-weight = 6
+date = "2022-05-04T19:44:32+05:30"
+title = "Clastic (Restructure)"
+draft = false
+weight = 2
 +++
 
 Fifth abundantly made Give sixth hath. Cattle creature i be don't them.

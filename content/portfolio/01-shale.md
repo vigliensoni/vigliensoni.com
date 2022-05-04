@@ -1,13 +1,13 @@
 +++
-image = "https://github.com/kishaningithub/hugo-creative-portfolio-theme/raw/master/exampleSite/static/img/portfolio/business-card.jpg"
-showonlyimage = true
+showonlyimage = false
 draft = false
-date = "2016-11-05T19:53:42+05:30"
-title = "Name of the work 5"
-weight = 5
+image = "img/covers/shale-800.jpg"
+date = "2022-05-04T18:25:22+05:30"
+title = "Shale (Restructure)"
+weight = 1
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Shale is the bomb
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.

@@ -1,13 +1,13 @@
 +++
-image = "img/portfolio/label-clothes.jpg"
+image = "img/covers/tiene-que-parar-800.jpg"
 showonlyimage = false
-date = "2016-11-05T19:57:40+05:30"
-title = "Name of the work 7"
+date = "2022-05-04T19:57:40+05:30"
+title = "Tiene que parar ahí"
 draft = false
 weight = 7
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.

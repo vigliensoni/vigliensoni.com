@@ -12,6 +12,9 @@ weight = 4
 
 Written and produced by Gabriel Vigliensoni in Montréal between February 2017 and January 2018.
 
+{{< bandcamp-sm 3612483867 >}}
+
+
 Mastered by Rupert Clervaux.
 
 Cover Art by Antonia Hernández.

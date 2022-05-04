@@ -12,6 +12,8 @@ weight = 8
 
 Composed and produced by Gabriel Vigliensoni
 
+{{< bandcamp-sm 506771771 >}}
+
 Mastered by Bob Macc @ Subvert Central Mastering
 
 Cover by Antonia Hernández.

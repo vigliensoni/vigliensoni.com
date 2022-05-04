@@ -12,6 +12,9 @@ weight = 6
 
 Composed and produced by Gabriel Vigliensoni during winter, 2018.
 
+{{< bandcamp-sm 2323618290 >}}
+
+
 Released by No Problema Tapes (NOP-079)
 
 © 2018 Gabriel Vigliensoni ℗ 2018 No Problema Tapes

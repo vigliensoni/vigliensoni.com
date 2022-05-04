@@ -17,6 +17,8 @@ Silvio Paredes (Chapman Stick, Fender Precision Bass, Contrabajo)
 Gabriel Vigliensoni (Nordlead 2, Roland XP50)
 Cuti Aste (Korg MS20, Rhodes, Clavinet, Vibráfono, Shamisen, Melódica)
 
+{{< bandcamp-sm 700882639 >}}
+
 Artistas invitados:
 
 Bitman (Towa), DJ Raff (Taxi, Lo Pequeño), Solo di Medina (Lo Pequeño)

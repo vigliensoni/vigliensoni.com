@@ -11,11 +11,13 @@ weight = 1
 <!--more-->
 Composed and produced by Gabriel Vigliensoni
 
-
-
 Mastered by Rupert Clervaux
 Concept design and cover by Antonia Hernández
 
+
+{{< bandcamp-sm 964550967>}}
+
+<br/><br/>
 
 Big thanks to: Marco Colasso; Rebecca Fiebrink and Oscar; Ichiro Fujinaga and Masako Tanzawa; Fran González; Claudine Hubert; Joseph Kamaru; Michael Leuffen; Corina MacDonald; Esteban Maestre; Evan Magoni; Louis McCallum; Alan Mongeau; Néstor Nápoles; Eduardo Pérez Infante, Daniela Cross, y Delfina; Marià Portugal y Manuela Martelli; Simon Plouffe et Myriam Jacob-Allard; Andrés Poblete; Samuel Ricciuti and Salima Bouaraour; Ignacio Redard; Matías Reyes; Evan Savage; Pía Sotomayor; Super Gatite; Atau Tanaka; Samuel Thulin and Myriam Durocher; Santiago Uribe; Marc-Pierre Verge; Vito Vigliensoni; AAS; CIRMMT; CKK; FRQSC; MIMIC; and MUTEK
 
@@ -37,5 +39,4 @@ Chez.Kito.Kat Records (CKK085)
 {{< youtube w7Ft2ymGmfc >}}
  -->
 
-{{< bandcamp 964550967>}}
 

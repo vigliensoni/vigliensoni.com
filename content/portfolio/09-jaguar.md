@@ -11,6 +11,9 @@ weight = 5
 
 Compositions and words by Gabriel Vigliensoni
 
+{{< bandcamp-sm 2088840149 >}}
+
+
 Composed and recorded January-June, 2015
 
 Performers on Jaguar are Eduardo Caces, bass guitar, Evan Magoni, snare drum and Fran González, hand claps; performers on Metal are David Romblom, electric piano, Eduardo Caces, bass guitar and Marcelo Muñoz, electric guitar

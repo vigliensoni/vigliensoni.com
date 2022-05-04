@@ -15,6 +15,8 @@ Mismos es Silvio Paredes, Gabriel Vigliensoni y Cuti Aste
 
 Compuesto y arreglado por Los Mismos
 
+{{< bandcamp-sm 1243594175 >}}
+
 Voz en Pepper por Javiera Mena
 
 Grabado y mezclado por Óscar López en Batuco y OjoParlante. Asistido por Andrés Rebolledo

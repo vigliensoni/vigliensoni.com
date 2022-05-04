@@ -15,6 +15,8 @@ Compuesto y producido por Lucybell: Francisco González, Marcelo Muñoz, Claudio
 
 Letras por Claudio Valenzuela.
 
+{{<spotify album 12hPIe3GsNJJ2Sosf8KVw5>}}
+
 Grabado en Portátil, Santiago de Chile por Óscar López.
 
 Mezclado en el Pié, Buenos Aires, Argentina por Óscar López. Asistido por Sebastián Perkal.

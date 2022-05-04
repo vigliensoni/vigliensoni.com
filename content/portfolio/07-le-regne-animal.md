@@ -4,7 +4,7 @@ draft = false
 image = "img/covers/le-regne-800.jpg"
 date = "2022-05-04T19:59:22+05:30"
 title = "Le Règne Animal (2014)"
-weight = 8
+weight = 6
 +++
 
 

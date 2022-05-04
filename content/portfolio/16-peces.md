@@ -1,10 +1,10 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/covers/picnic-800.jpg"
+image = "img/covers/peces-800.jpg"
 date = "2022-05-04T19:59:22+05:30"
 title = "Peces"
-weight = 8
+weight = 12
 +++
 
 By _Lucybell_
@@ -12,6 +12,9 @@ By _Lucybell_
 <!--more-->
 
 Todas las canciones creadas e interpretadas por Lucybell: Francisco González, Marcelo Muñoz, Claudio Valenzuela, Gabriel Vigliensoni.
+
+{{<spotify album 4pvzTHkfxiiP6cCpePwSPm>}}
+<br><br>
 
 Grabado, mezclado y producido en Agosto de 1994 por Mario Breuer.
 

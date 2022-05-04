@@ -4,7 +4,7 @@ image = "img/covers/jaguar-800.jpg"
 showonlyimage = false
 date = "2022-05-04T20:02:19+05:30"
 title = "Jaguar (2015)"
-weight = 5
+weight = 4
 +++
 
 <!--more-->

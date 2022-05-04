@@ -1,10 +1,10 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/covers/picnic-800.jpg"
+image = "img/covers/viajar-800.jpg"
 date = "2022-05-04T19:59:22+05:30"
 title = "Viajar"
-weight = 8
+weight = 11
 +++
 
 By _Lucybell_
@@ -14,6 +14,9 @@ By _Lucybell_
 Compuesto  por Lucybell: Francisco González, Marcelo Muñoz, Claudio Valenzuela, Gabriel Vigliensoni.
 
 Letras por Claudio Valenzuela.
+
+{{<spotify album 670c4gAfyhyfVu4pB1KTJF>}}
+<br><br>
 
 Producido por Lucybell y Mario Breuer.
 

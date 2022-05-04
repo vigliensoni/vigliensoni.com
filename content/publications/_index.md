@@ -1,8 +1,8 @@
 +++
 date = "2022-05-04T21:05:33+05:30"
-title = "Video"
+title = "Publications"
 +++
 
-Here the video
+Here the publications
 
  

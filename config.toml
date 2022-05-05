@@ -1,4 +1,4 @@
-baseURL = "http://dev.vigliensoni.com/"
+baseURL = "https://dev.vigliensoni.com/"
 title = "vigliensoni"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"

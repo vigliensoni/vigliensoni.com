@@ -4,7 +4,7 @@ draft = false
 image = ""
 date = "2022-05-04T19:59:22+05:30"
 title = "Generation and visualization of rhythmic latent spaces"
-weight = 1
+weight = 3s
 +++
 
 Gabriel Vigliensoni, Louis McCallum, Esteban Maestre, and Rebecca Fiebrink. 

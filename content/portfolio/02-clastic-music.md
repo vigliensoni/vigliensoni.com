@@ -4,7 +4,7 @@ title = "Clastic Music (2022)"
 draft = false
 image = "img/covers/clastic-cover-800.jpg"
 showonlyimage = false
-weight = 1
+weight = 2
 +++
 
 

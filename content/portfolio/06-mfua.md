@@ -4,7 +4,7 @@ image = "img/covers/michael-800.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Michael Failed Us All (2018)"
 showonlyimage = false
-weight = 4
+weight = 3
 +++
 
 

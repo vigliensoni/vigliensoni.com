@@ -1,4 +1,19 @@
 <p class="social">
+  {{ with .Site.Params.social.email }}
+  <a href="mailto:{{ . }}" data-animate-hover="pulse" class="email" title="E-mail">
+    <i class="fa fa-envelope"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.instagram }}
+  <a href="{{ . }}" title="" class="external instagram" title="Instagram">
+    <i class="fa fa-instagram"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.github }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external" title="GitHub">
+    <i class="fa fa-github"></i>
+  </a>
+  {{end}}
   {{ with .Site.Params.social.facebook }}
   <a href="{{ . }}" data-animate-hover="pulse" class="external facebook" title="Facebook">
     <i class="fa fa-facebook"></i>
@@ -14,16 +29,6 @@
     <i class="fa fa-twitter"></i>
   </a>
   {{end}}
-  {{ with .Site.Params.social.instagram }}
-  <a href="{{ . }}" title="" class="external instagram" title="Instagram">
-    <i class="fa fa-instagram"></i>
-  </a>
-  {{end}}
-  {{ with .Site.Params.social.email }}
-  <a href="mailto:{{ . }}" data-animate-hover="pulse" class="email" title="E-mail">
-    <i class="fa fa-envelope"></i>
-  </a>
-  {{end}}
   {{ with .Site.Params.social.linkedin }}
   <a href="{{ . }}" data-animate-hover="pulse" class="external" title="LinkedIn">
     <i class="fa fa-linkedin"></i>
@@ -32,11 +37,6 @@
   {{ with .Site.Params.social.stackoverflow }}
   <a href="{{ . }}" data-animate-hover="pulse" class="external" title="Stack Overflow">
     <i class="fa fa-stack-overflow"></i>
-  </a>
-  {{end}}
-  {{ with .Site.Params.social.github }}
-  <a href="{{ . }}" data-animate-hover="pulse" class="external" title="GitHub">
-    <i class="fa fa-github"></i>
   </a>
   {{end}}
   {{ with .Site.Params.social.gitlab }}

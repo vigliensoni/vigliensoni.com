@@ -47,7 +47,7 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "About me"
+  name = "About"
   url = "about/"
 
   [[params.navlinks]]
@@ -63,7 +63,7 @@ googleAnalytics = ""
   url = "clastic-music/"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "Contact"
   url = "contact/"
 
 

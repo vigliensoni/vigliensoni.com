@@ -70,8 +70,8 @@ googleAnalytics = ""
 
   [params.social]
   email         = "gabriel@vigliensoni.com"
-  facebook      = "https://facebook.com/vigliensoni"
   instagram     = "https://instagram.com/vigliensoni"
+  facebook      = "https://facebook.com/vigliensoni"
   github        = "https://github.com/vigliensoni"
   # googleplus    = "full profile url in googleplus"
   # twitter       = "full profile url in twitter"

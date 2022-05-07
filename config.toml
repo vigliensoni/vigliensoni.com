@@ -51,12 +51,20 @@ googleAnalytics = ""
   url = "about/"
 
   [[params.navlinks]]
-  name = "Publications"
-  url = "publications/"
+  name = "Music"
+  url = "categories/music"
 
   [[params.navlinks]]
   name = "Video"
   url = "video/"
+
+  [[params.navlinks]]
+  name = "Research"
+  url = "research/"
+
+  [[params.navlinks]]
+  name = "Publications"
+  url = "categories/publication"
 
   [[params.navlinks]]
   name = "Clastic Music"

@@ -5,6 +5,8 @@ showonlyimage = false
 date = "2022-05-04T20:22:08+05:30"
 title = "Nata"
 weight = 10
+categories = ['music']
+years = ['2004']
 +++
 
 Nata

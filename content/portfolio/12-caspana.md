@@ -5,6 +5,8 @@ image = "img/covers/caspana-800.jpg"
 date = "2022-05-04T19:59:22+05:30"
 title = "Caspana"
 weight = 10
+categories = ['music']
+years = ['2006']
 +++
 
 By _Mismos_

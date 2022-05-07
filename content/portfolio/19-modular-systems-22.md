@@ -5,6 +5,8 @@ image = "img/mixtapes/modular-systems-1-800.jpg"
 date = "2022-05-04T19:59:22+05:30"
 title = "Modular Systems guest set"
 weight = 8
+categories = ['mixtape']
+years = ['2022']
 +++
 
 Guest Mix for CMD's Modular Systems radio show at CKUT Montréal

@@ -5,6 +5,8 @@ image = "img/covers/lucybell-peces-800.jpg"
 date = "2022-05-04T19:59:22+05:30"
 title = "Peces"
 weight = 12
+categories = ['music']
+years = ['1995']
 +++
 
 By _Lucybell_

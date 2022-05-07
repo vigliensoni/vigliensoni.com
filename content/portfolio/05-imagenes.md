@@ -5,6 +5,8 @@ draft = false
 date = "2022-05-04T19:53:42+05:30"
 title = "Imágenes Paganas (2016)"
 weight = 5
+categories = ['music']
+years = ['2016']
 +++
 
 

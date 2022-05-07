@@ -5,6 +5,8 @@ date = "2022-05-04T19:44:32+05:30"
 title = "Clastic (Restructure)"
 draft = false
 weight = 3
+categories = ['music']
+years = ['2022']
 +++
 
 

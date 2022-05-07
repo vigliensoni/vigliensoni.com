@@ -5,6 +5,8 @@ image = ""
 date = "2022-05-04T19:59:22+05:30"
 title = "Creating Latent Spaces for Modern Music Genre Rhythms Using Minimal Training Data"
 weight = 4
+categories = ['publication']
+years = ['2020']
 +++
 
 Gabriel Vigliensoni, Louis McCallum, and Rebecca Fiebrink.

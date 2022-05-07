@@ -5,6 +5,9 @@ showonlyimage = false
 date = "2022-05-04T20:02:19+05:30"
 title = "Jaguar (2015)"
 weight = 7
+categories = ['music']
+tags = ['vigliensoni']
+years = ['2015']
 +++
 
 <!--more-->

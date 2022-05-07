@@ -5,6 +5,8 @@ showonlyimage = false
 date = "2022-05-04T19:50:47+05:30"
 title = "Tempest (2018)"
 weight = 4
+categories = ['music']
+years = ['2018']
 +++
 
 

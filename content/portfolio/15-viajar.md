@@ -5,6 +5,8 @@ image = "img/covers/lucybell-viajar-800.jpg"
 date = "2022-05-04T19:59:22+05:30"
 title = "Viajar"
 weight = 11
+categories = ['music']
+years = ['1996']
 +++
 
 By _Lucybell_

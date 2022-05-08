@@ -29,7 +29,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "gabriel@vigliensoni.com"
+  email = "gabriel@vigliensoni.com" # formspree form ID associated to email g@v f/mnqwlaey
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]

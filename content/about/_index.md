@@ -15,5 +15,10 @@ vigliensoni has been involved in a variety of projects throughout his lengthy mu
 
 For his latest release, Clastic music, he implemented a custom machine learning-driven musical instrument to make and explore rhythms. vigliensoni plays in the album with the geological concept of the clast: new entities and forms created out of pre-existing fragments—akin to how machine learning uses pre-existing data to generate new forms. Clastic music is then the result of rhythmic improvisations with models learned from bespoke datasets of rhythmic patterns from music genres he loves.
 
-[Curriculum vitae (updated May 2022)](/cv)
- 
+[Curriculum vitae (updated April 2022)](/cv)
+
+[Artist bio, English version (updated April 2022)](/epk-en)
+
+[Bio artista, versión Español (updateada Abril 2022)](/epk-es)
+
+

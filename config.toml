@@ -68,7 +68,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Clastic Music"
-  url = "clastic-music/"
+  url = "https://media.vigliensoni.com/clastic-music/"
 
   [[params.navlinks]]
   name = "Contact"

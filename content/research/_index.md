@@ -1,7 +1,16 @@
 +++
 date = "2022-05-04T21:05:33+05:30"
-title = "Publications"
+title = "Research"
 +++
+
+## Statement
+
+A search for the creative possibilities of new technologies has been at the core of my scientific and artistic research in my academic and professional career. In my early graduate research, I combined human-computer interaction, physical computing, and music information retrieval techniques to develop novel gestural interfaces to control sound synthesis processes that I then used expressively in my creative practice. Currently, I am exploring the creative affordances of the machine learning paradigm in music composition and performance. I develop, adapt, compose, and perform with machine learning techniques and tools that learn models from music encoded in a symbolic format. In my current research, I am investigating the expressive possibilities of machine learning-assisted music-making directly in the audio domain.
+
+
+The contemporary and rapidly changing new music economy landscape requires researchers, professionals, and makers not only aware of the new tools and techniques to design and implement new creative output, but also to think critically on the biases and implications of using data-driven technologies in creative practice in general, and music-making in particular. As a researcher, scholar, computer musician, and performer, these are for me important topics and a focal point. As a result, in my scientific research and creative output, I interrogate and explore the aesthetic possibilities of new technologies, but I also pay attention to their omissions, silences, and disconnections. Hence, I am committed to an inclusive approach to the development of new ways of producing, researching, and enjoying music.
+
+## Publications
 
 ### 2022
 

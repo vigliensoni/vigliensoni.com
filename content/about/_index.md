@@ -10,6 +10,9 @@ vigliensoni, aka Gabriel Vigliensoni, is a Montréal-based electronic music prod
 
 vigliensoni has been involved in a variety of projects throughout his lengthy musical career, performing, producing, and composing. In all these projects, vigliensoni embeds his trademark sound of interlocked rhythms, edgy synth melodies, and sonic experimentation. With an emphasis on practice, vigliensoni is always searching for new ways to communicate his radical approach to music-making with the audience. He has developed music environments for improvisation and performance to bring liveness and immediacy to the workflow of digital music production and performance.
 
+{{< figure src="../img/pics-me/session/VIGLIENSONI-9-photo-by-GAB-DEL-CANTO-800.jpg" width="400px" >}}
+<br><br>
+
 For his latest release, Clastic music, he implemented a custom machine learning-driven musical instrument to make and explore rhythms. vigliensoni plays in the album with the geological concept of the clast: new entities and forms created out of pre-existing fragments—akin to how machine learning uses pre-existing data to generate new forms. Clastic music is then the result of rhythmic improvisations with models learned from bespoke datasets of rhythmic patterns from music genres he loves.
 
 [Curriculum vitae (updated May 2022)](/cv)

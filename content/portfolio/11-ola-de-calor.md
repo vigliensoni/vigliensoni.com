@@ -9,6 +9,25 @@ categories = ['music']
 years = ['2021']
 +++
 
-Creative collective _Tragatierra_
+By _Tragatierra_
 <!--more-->
+
+Letra y música por Ignacio Redard y Gabriel Vigliensoni.
+
+Producida por Ignacio Redard, Gabriel Vigliensoni y Lucy C.
+
+{{< bandcamp-track 1922788386 >}}
+<br><br>
+
+
+Mezclada por Barry Sage en Estudio Home (CL).
+
+Masterizada por Bob Macc en Subvert Central Mastering (UK).
+
+Portada por Buena Estudio.
+
+Ola de Calor es distribuído por Santiago Récords. Released October 22, 2021.
+
+
+[MusicBrainz](https://musicbrainz.org/release-group/82011d34-b33a-4034-ae62-d038cef35635) | [Discogs](https://www.discogs.com/release/20703670-Tragatierra-Ignacio-Redard-vigliensoni-Ola-de-Calor)
 

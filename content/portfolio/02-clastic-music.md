@@ -29,16 +29,5 @@ Chez.Kito.Kat Records (CKK085)
 
 [Bandcamp](https://chezkitokatrecords.bandcamp.com/album/clastic-music) | [MusicBrainz](https://musicbrainz.org/release-group/f7b51b64-05c9-40cc-926f-565705d909a6) | [Discogs](https://www.discogs.com/release/22726244-vigliensoni-Clastic-Music)
 
-<iframe style="border: 0; width: 500px; height: 725px;" src="https://bandcamp.com/EmbeddedPlayer/album=964550967/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://chezkitokatrecords.bandcamp.com/album/clastic-music">Clastic Music by Vigliensoni</a></iframe>
-
-<!-- 
-{{< figure src="../../img/covers/clastic-cover-800.jpg" width="400px" title="Clastic Music cover" >}}
- -->
-
-
-
-<!-- 
-{{< youtube w7Ft2ymGmfc >}}
- -->
 
 

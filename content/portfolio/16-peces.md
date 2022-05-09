@@ -4,7 +4,7 @@ draft = false
 image = "img/covers/lucybell-peces-800.jpg"
 date = "2022-05-04T19:59:22+05:30"
 title = "Peces"
-weight = 12
+weight = 103
 categories = ['music']
 years = ['1995']
 +++

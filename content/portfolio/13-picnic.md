@@ -4,7 +4,7 @@ draft = false
 image = "img/covers/picnic-800.jpg"
 date = "2022-05-04T19:59:22+05:30"
 title = "Pic Nic"
-weight = 10
+weight = 92
 categories = ['music']
 years = ['2002']
 +++

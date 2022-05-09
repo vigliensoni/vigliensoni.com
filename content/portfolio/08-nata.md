@@ -4,12 +4,12 @@ image = "img/covers/nata-2022-800.jpg"
 showonlyimage = false
 date = "2022-05-04T20:22:08+05:30"
 title = "Nata"
-weight = 10
+weight = 69
 categories = ['music']
 years = ['2004']
 +++
 
-Nata
+
 <!--more-->
 
 {{< bandcamp-sm 3877997133 >}}

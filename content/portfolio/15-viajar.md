@@ -4,7 +4,7 @@ draft = false
 image = "img/covers/lucybell-viajar-800.jpg"
 date = "2022-05-04T19:59:22+05:30"
 title = "Viajar"
-weight = 11
+weight = 102
 categories = ['music']
 years = ['1996']
 +++

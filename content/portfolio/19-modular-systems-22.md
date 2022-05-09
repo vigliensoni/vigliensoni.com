@@ -4,7 +4,7 @@ draft = false
 image = "img/mixtapes/modular-systems-1-800.jpg"
 date = "2022-05-04T19:59:22+05:30"
 title = "Modular Systems guest set"
-weight = 8
+weight = 83
 categories = ['mixtape']
 years = ['2022']
 +++

@@ -9,40 +9,47 @@ categories = ['mixtape']
 years = ['2022']
 +++
 
-Guest Mix for CMD's Modular Systems radio show at CKUT Montréal
+Guest set for CMD's Modular Systems show at CKUT 90.3 FM Montréal. 
+
 
 <!--more-->
 
-Playlist:
+Aired on March 13, 2022.
 
-#	Artist	Track Title
-1.	Vigliensoni	Breccia
-2.	Nihiloxica	Gunjula (Metrist Remix)
-3.	Toma Kami	Solo Use
-4.	Leonce	Tripwires
-5.	Michael Aurelius	Close Your Eyes
-6.	Lithe	It's Rhythm
-7.	Pavel Milyakov, Bendik Giske	Untitled 2
-8.	Loraine James	Change 
-9.	Fracture, Sam Binga	Xtatic
-10.	A2A, Air Max '97, Aya	Yike!
-11.	Surgeons Girl	Grass Labyrinth
-12.	Loft	Oh Well, We're All Fucked Now
-13.	Leonce	Flight Risk (feat. Neana)
-14.	Nihiloxica	Bwola (BFTT's Swamped Edit)
-15.	Two Shell	Big Style
-16.	Cuban Chamber Of Commerce	Ping 900
-17.	Toma Kami	XN
-18.	Lithe	Second Pavilion
-19.	Blawan	No Rabbit No Life
-20.	borderlandstate_the best kisser in l.a	cas_9
-21.	Blawan	Close the Cycle
-22.	Blawan	Under Belly
-23.	Qik	Mississippi River
-24.	vigliensoni	Unreleased
-25.	borderlandstate_the best kisser in l.a	LANdance
-26.	Dominowe	Umzabalazo (We Broken)
-27.	borderlandstate_the best kisser in l.a	arena4
-28.	Powell	A Band
-29.	Blawan	Blika
-30.	Joy Orbison	layer 6
+
+{{<soundcloud-track 1231213588>}}
+
+
+#### Playlist
+
+
+1.	_Breccia_. Vigliensoni	
+2.	_Gunjula (Metrist Remix)_. Nihiloxica	
+3.	_Solo Use_. Toma Kami	
+4.	_Tripwires_. Leonce	
+5.	_Close Your Eyes_. Michael Aurelius	
+6.	_It's Rhythm_. Lithe	
+7.	_Untitled 2_. Pavel Milyakov, Bendik Giske	
+8.	_Change_. Loraine James	
+9.	_Xtatic_. Fracture, Sam Binga	
+10.	_Yike!_. A2A, Air Max '97, Aya	
+11.	_Grass Labyrinth_. Surgeons Girl	
+12.	_Oh Well, We're All Fucked Now_. Loft	
+13.	_Flight Risk_. Leonce feat. Neanas
+14.	_Bwola (BFTT's Swamped Edit)_. Nihiloxica	
+15.	_Big Style_. Two Shell	
+16.	_Ping 900_. Cuban Chamber Of Commerce	
+17.	_XN_. Toma Kami	
+18.	_Second Pavilion_. Lithe	
+19.	_No Rabbit No Life_. Blawan	
+20.	_cas_9_. borderlandstate_the best kisser in l.a	
+21.	_Close the Cycle_. Blawan	
+22.	_Under Belly_. Blawan	
+23.	_Mississippi River_. Qik	
+24.	_Unreleased_. vigliensoni	
+25.	_LANdance_. borderlandstate_the best kisser in l.a	
+26.	_Umzabalazo (We Broken)_. Dominowe	
+27.	_arena4_. borderlandstate_the best kisser in l.a	
+28.	_A Band_. Powell	
+29.	_Blika_. Blawan	
+30.	_layer 6_. Joy Orbison	

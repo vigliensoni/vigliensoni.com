@@ -3,9 +3,9 @@ showonlyimage = false
 draft = false
 image = "img/workshops/milieux-22.jpg"
 date = "2022-05-09T19:59:22+05:30"
-title = "Introduction to machine learning for creative practice Workshop"
-weight = 29
-categories = ['workshops']
+title = "Introduction to machine learning for creative practice workshop"
+weight = 39
+categories = ['workshop']
 years = ['2022']
 +++
 

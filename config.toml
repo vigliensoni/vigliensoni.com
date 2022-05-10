@@ -62,6 +62,10 @@ googleAnalytics = ""
   name = "Research"
   url = "research/"
 
+  [[params.navlinks]]
+  name = "Workshops"
+  url = "categories/workshop/"
+
   # [[params.navlinks]]
   # name = "Publications"
   # url = "categories/publication"

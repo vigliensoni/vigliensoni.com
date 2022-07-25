@@ -19,6 +19,6 @@ In this paper, we argue that working with small-scale datasets is an often-overl
 <br>
 
 [Slides](https://media.vigliensoni.com/projector/GenAICHI22/genaichi22slides.pdf)
-<!-- {{< embed-pdf url="https://media.vigliensoni.com/projector/GenAICHI22/genaichi22slides.pdf" >}} -->
+
 
 

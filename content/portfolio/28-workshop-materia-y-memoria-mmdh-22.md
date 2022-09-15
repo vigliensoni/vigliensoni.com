@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/workshops/panel-materia-y-memoria-mmdh-22.jpg"
+image = "img/workshops/workshop-materia-y-memoria-800-800.jpg"
 date = "2022-09-06T19:59:22+05:30"
 title = "Materia y memoria: Taller de práctica creativa con sonido, música e inteligencia artificial"
 weight = 10
@@ -14,7 +14,7 @@ Museo de la Memoria y los Derechos Humanos, Santiago, CL.
 
 <!--more-->
 
-{{< figure src="/img/workshops/panel-materia-y-memoria-mmdh-22.jpg" alt="Taller Materia y Memoria" >}}
+{{< figure src="/img/workshops/workshop-materia-y-memoria-800-800.jpg" alt="Taller Materia y Memoria" >}}
 <br><br>
 
 **Descripción:** El workshop  _Materia y memoria: Taller de práctica creativa con sonido, música e inteligencia artificial_ tiene como objeto el desarrollar habilidades técnicas de inteligencia artificial en artistas que ocupe sonido y música como parte de su práctica creativa, así como facilitar la discusión sobre las capacidades e implicancias que tiene el uso de estas tecnologías en el quehacer creativo.

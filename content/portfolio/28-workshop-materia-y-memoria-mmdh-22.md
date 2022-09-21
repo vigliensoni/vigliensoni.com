@@ -35,9 +35,12 @@ Museo de la Memoria y los Derechos Humanos, Santiago, CL.
 
 **Número de participantes**: 12
 
-**Postulación**: Para postular debes entregar un bio de artista (150-250 palabras), un texto de motivación (250-350 palabras) y links a ejemplos de tu práctica creativa. [Se realiza online en este link](https://bit.ly/materia-y-memoria). 
+**Postulación**: Para postular debes entregar un bio de artista (150-250 palabras), un texto de motivación (250-350 palabras) y links a ejemplos de tu práctica creativa. 
 
-Mayor información en [documento adjunto](https://www.dropbox.com/s/wx573r54gtbikyj/info-taller-VIGLIENSONI.pdf?dl=0) o [correo](mailto:vigliensoni@gmail.com?subject=workshop-materia-y-memoria)
+
+## [Link de postulación](https://bit.ly/materia-y-memoria) 
+
+Mayor información en [documento adjunto](https://www.dropbox.com/s/wx573r54gtbikyj/info-taller-VIGLIENSONI.pdf?dl=0) o [vía correo](mailto:vigliensoni@gmail.com?subject=workshop-materia-y-memoria)
 
 **Ejemplo**
 
@@ -63,7 +66,8 @@ En el siguiente video, los artistas dedosmuertos y vigliensoni exploran en tiemp
 
 - Plataforma Grieta
 - Museo de la Memoria y los Derechos Humanos
-- Creative Computing Institute - University of the Arts, London
 - Fonds de recherche du Québec – Société et culture
+- Creative Computing Institute - University of the Arts, London
+
 
 

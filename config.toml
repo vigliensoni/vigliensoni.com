@@ -55,10 +55,6 @@ googleAnalytics = ""
   url = "categories/music"
 
   [[params.navlinks]]
-  name = "Video"
-  url = "video/"
-
-  [[params.navlinks]]
   name = "Research"
   url = "research/"
 
@@ -70,13 +66,18 @@ googleAnalytics = ""
   name = "Performance"
   url = "categories/performance/"
 
-  [[params.navlinks]]
-  name = "Publications"
-  url = "categories/publication"
+  ## [[params.navlinks]]
+  ## name = "Publications"
+  ## url = "categories/publication"
+
 
   [[params.navlinks]]
   name = "Clastic Music"
   url = "https://media.vigliensoni.com/clastic-music/"
+
+  [[params.navlinks]]
+  name = "Video"
+  url = "video/"
 
   [[params.navlinks]]
   name = "Contact"

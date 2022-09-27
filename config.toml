@@ -70,9 +70,9 @@ googleAnalytics = ""
   name = "Performance"
   url = "categories/performance/"
 
-  # [[params.navlinks]]
-  # name = "Publications"
-  # url = "categories/publication"
+  [[params.navlinks]]
+  name = "Publications"
+  url = "categories/publication"
 
   [[params.navlinks]]
   name = "Clastic Music"

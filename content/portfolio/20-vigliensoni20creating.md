@@ -9,12 +9,7 @@ categories = ['publication']
 years = ['2020']
 +++
 
-Gabriel Vigliensoni, Louis McCallum, and Rebecca Fiebrink.
-
-<br><br>
-
-In _Proceedings of the 11th International
-Conference on Computational Creativity (ICCC’20)_
+Gabriel Vigliensoni, Louis McCallum, and Rebecca Fiebrink. 2020. In _Proceedings of the 11th International Conference on Computational Creativity (ICCC’20)._
 
 <!--more-->
 

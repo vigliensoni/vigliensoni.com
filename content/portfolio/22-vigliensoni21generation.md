@@ -9,11 +9,7 @@ categories = ['publication']
 years = ['2020']
 +++
 
-Gabriel Vigliensoni, Louis McCallum, Esteban Maestre, and Rebecca Fiebrink. 
-
-<br><br>
-
-In _Proceedings of the 2020 Joint Conference on AI Music Creativity._
+Gabriel Vigliensoni, Louis McCallum, Esteban Maestre, and Rebecca Fiebrink. 2021. In _Proceedings of the 2020 Joint Conference on AI Music Creativity._
 
 <!--more-->
 

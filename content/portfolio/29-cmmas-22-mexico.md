@@ -30,7 +30,19 @@ On the 24th, I'll be performing at 316Centro alongside fellow artists CNDSD, Iv√
 
 {{< figure src="/img/shows/316centro.jpg" alt="316centro" >}}
 
-### 
+
+### CMMAS
+
+{{<youtube HV6UMvYc3H0>}} 
+
+### 316Centro
+
+
+{{<youtube WAYtDg7it2E>}} 
+
+<br><br>
+
+{{<youtube N87YdYn7I4I>}} 
 
 
 

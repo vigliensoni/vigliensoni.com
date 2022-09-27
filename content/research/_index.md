@@ -13,10 +13,10 @@ The contemporary and rapidly changing new music economy landscape requires resea
 ## Publications
 
 ### 2022
+[**Vigliensoni, G.**, L. McCallum, E. Maestre, and R. Fiebrink. 2022](../portfolio/30-vigliensoni22live). R-VAE: Live latent space drum rhythm generation from minimal-size datasets. _Journal of Creative Music Systems 1(1)_. doi: https://doi.org/10.5920/jcms.902.
 
-**Vigliensoni, G.**, P. Perry, and R. Fiebrink. 2022. A small-data mindset for generative AI creative work. To be published in the _Generative AI and HCI Workshop - Conference on Human Factors in Computing Systems Workshop (CHI2022)_.
+[**Vigliensoni, G.**, P. Perry, and R. Fiebrink. 2022](../portfolio/21-vigliensoni22smalldata). A small-data mindset for generative AI creative work. In Proceedings of the _Generative AI and HCI Workshop - Conference on Human Factors in Computing Systems Workshop (CHI2022)_.
 
-**Vigliensoni, G.**, L. McCallum, E. Maestre, and R. Fiebrink. 2021. Contemporary music genre rhythm generation with machine learning. Revised and resubmitted to the _Journal of Creative Music Systems_.
 
 ### 2021
 

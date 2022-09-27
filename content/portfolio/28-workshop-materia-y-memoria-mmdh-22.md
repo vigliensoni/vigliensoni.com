@@ -37,6 +37,9 @@ Museo de la Memoria y los Derechos Humanos, Santiago, CL.
 
 **Postulación**: Para postular debes entregar un bio de artista (150-250 palabras), un texto de motivación (250-350 palabras) y links a ejemplos de tu práctica creativa. 
 
+**Cierre de postulaciones**
+Domingo 2 de octubre
+
 
 ## [Link de postulación](https://bit.ly/materia-y-memoria) 
 

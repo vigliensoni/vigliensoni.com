@@ -4,7 +4,7 @@ draft = false
 image = ""
 date = "2022-05-04T19:59:22+05:30"
 title = "A small-data mindset for generative AI creative work"
-weight = 11
+weight = 12
 categories = ['publication']
 years = ['2022']
 +++

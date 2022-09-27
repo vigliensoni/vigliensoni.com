@@ -4,7 +4,7 @@ draft = false
 image = "img/shows/316centro-sq.jpg"
 date = "2022-09-12T19:59:22+05:30"
 title = "Clastic Music in México"
-weight = 12
+weight = 11
 categories = ['performance']
 years = ['2022']
 +++

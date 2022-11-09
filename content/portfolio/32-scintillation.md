@@ -34,7 +34,7 @@ Dance Across Borders compilation cover by @elisaglze
 
 ©℗ 2022 Corina MacDonald and Gabriel Vigliensoni
 
-[Bandcamp](https://mtldancesacrossborders.bandcamp.com/album/vol-3-mdab03) | [MusicBrainz](https://musicbrainz.org/release-group/f7b51b64-05c9-40cc-926f-565705d909a6) | [Discogs](https://www.discogs.com/release/22726244-vigliensoni-Clastic-Music)
+[Bandcamp](https://mtldancesacrossborders.bandcamp.com/album/vol-3-mdab03) | [MusicBrainz](https://musicbrainz.org/release-group/1f7efdf9-641f-422e-bf5f-3a141bd61913) | [Discogs](https://www.discogs.com/release/25000573-Various-Artists-Montreal-Dances-Across-Borders)
 
 
 

@@ -34,6 +34,24 @@ Guayo & Gabriel
 PS: You can also check the [open-source code repository here](https://github.com/vigliensoni/clastic-music-app).
 
 
+### Credits
+
+Composed and produced by Gabriel Vigliensoni. 
+
+Hydra visualizations by Eduardo Pérez Infante. 
+
+Concept design and cover by Antonia Hernández. 
+
+Mastered by Rupert Clervaux.
+
+Web application built with Hydra Synth by Olivia Jack
+
+Video footage recorded during MUTEK 2020, Montréal.
+
+Big thanks to:
+
+Mar Colasso, Daniela Cross and Delfina, Rebecca Fiebrink and Oscar, Ichiro Fujinaga, Claudine Hubert, Esteban Maestre, Louis McCallum, Alan Mongeau, Néstor Nápoles, Andrés Poblete, Evan Savage, Samuel Thulin, Santiago Uribe, Marc-Pierre Verge, Lizzie Wilson, AAS, CIRMMT, FRQSC, MIMIC project, and MUTEK Montréal.
+
 
 
 <!-- {{< youtube 2058681707>}} -->

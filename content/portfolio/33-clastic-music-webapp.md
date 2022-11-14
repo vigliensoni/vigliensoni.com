@@ -32,7 +32,7 @@ We took the footage and sound recorded during the show, generated a series of pa
 
 In the webapp, the nine tracks of the Clastic music record have different video synthesizer patches that you can interact with by moving the mouse around. The images also react to the music in real time. To enjoy it, select a track from the bottom of the page and play with the video synthesizer while you listen to the music.
 
-{{<youtube id="BKRrDy6LiMI" class="vertical-video" >}}
+{{<youtube id="e2E7m4-4i9k" class="vertical-video" >}}
 <br><br>
 
 The Clastic music app works best in Firefox and Chrome. iOS devices and Safari are not currently supported.
@@ -67,7 +67,6 @@ Mar Colasso, Daniela Cross and Delfina, Rebecca Fiebrink and Oscar, Ichiro Fujin
 
 
 <!-- {{< youtube 2058681707>}} -->
-
-<br/><br/>
+<!-- {{<youtube id="e2E7m4-4i9k" class="vertical-video" >}} -->
 
 

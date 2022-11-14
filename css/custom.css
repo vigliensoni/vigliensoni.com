@@ -1,1 +1,11 @@
 /* your styles go here */
+
+.vertical-video iframe {
+    height: 540px;
+    width: 400px;
+    margin: 0 auto;
+    display: block;
+    border: 0;
+    overflow: hidden;
+}
+

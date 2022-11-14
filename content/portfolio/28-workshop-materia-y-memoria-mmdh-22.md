@@ -4,7 +4,7 @@ draft = false
 image = "img/workshops/workshop-materia-y-memoria-800-800.jpg"
 date = "2022-09-06T19:59:22+05:30"
 title = "Materia y memoria: Taller de práctica creativa con sonido, música e inteligencia artificial"
-weight = 11
+weight = 30
 categories = ['workshop']
 years = ['2022']
 +++

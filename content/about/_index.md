@@ -17,6 +17,6 @@ For his latest release, Clastic music, he implemented a custom machine learning-
 
 [Curriculum vitae (updated December 2022)](/cv)
 
-[Artist bio (updated December 2022)](/epk-en) | [Versión Español](/epk-es)
+[Artist bio (updated December 2022)](/epk-eng) | [Versión Español](/epk-esp)
 
 

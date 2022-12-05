@@ -1,6 +1,6 @@
 <p class="social">
   {{ with .Site.Params.social.email }}
-  <a href="mailto:{{ . }}" data-animate-hover="pulse" class="email" title="E-mail">
+  <a href="/contact/" data-animate-hover="pulse" class="email" title="E-mail">
     <i class="fa fa-envelope"></i>
   </a>
   {{end}}
@@ -12,11 +12,6 @@
   {{ with .Site.Params.social.github }}
   <a href="{{ . }}" data-animate-hover="pulse" class="external" title="GitHub">
     <i class="fa fa-github"></i>
-  </a>
-  {{end}}
-  {{ with .Site.Params.social.facebook }}
-  <a href="{{ . }}" data-animate-hover="pulse" class="external facebook" title="Facebook">
-    <i class="fa fa-facebook"></i>
   </a>
   {{end}}
   {{ with .Site.Params.social.googleplus }}
@@ -52,6 +47,11 @@
   {{ with .Site.Params.social.whatsapp }}
   <a href="{{ . }}" data-animate-hover="pulse" class="external" title="WhatsApp">
     <i class="fa fa-whatsapp"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.facebook }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external facebook" title="Facebook">
+    <i class="fa fa-facebook"></i>
   </a>
   {{end}}
 </p>

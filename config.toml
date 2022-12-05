@@ -88,14 +88,15 @@ googleAnalytics = ""
   [params.social]
   email         = "gabriel@vigliensoni.com"
   instagram     = "https://instagram.com/vigliensoni"
-  facebook      = "https://facebook.com/vigliensoni"
+  youtube       = "https://www.youtube.com/@vigliensoni/videos"
   github        = "https://github.com/vigliensoni"
+  facebook      = "https://facebook.com/vigliensoni"
   # googleplus    = "full profile url in googleplus"
   # twitter       = "full profile url in twitter"
   # linkedin      = "full profile url in linkedin"
   # stackoverflow = "full profile url in stackoverflow"
   # gitlab        = "full profile url in gitlab"
-  # youtube       = "https://youtube.com/bambihustler"
+
   # whatsapp      = "wa.me service link"
 
 [taxonomies]

@@ -3,7 +3,6 @@ date = "2022-05-04T21:05:33+05:30"
 title = "EPK-EN redirect"
 aliases = [
     "/epk-es/",
-    "www.dropbox.com/s/hqm1pm9xjy0s4es/vigliensoni-artistBio_SP-prepress.pdf?dl=0"
+    "www.dropbox.com/s/aixnk98gz3ap5x5/vigliensoni-artistBio-ES-pp.pdf?dl=0"
 ]
 +++
-

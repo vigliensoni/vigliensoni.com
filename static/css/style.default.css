@@ -663,12 +663,12 @@ COPYRIGHT
 }
 @media (max-width: 991px) {
   .copyright p.credit {
-    text-align: center !important;
+    text-align: left !important;
   }
 }
 @media (max-width: 991px) {
   .copyright {
-    text-align: center !important;
+    text-align: left !important;
   }
 }
 /*

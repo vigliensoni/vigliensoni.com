@@ -19,3 +19,14 @@
         overflow: hidden;
     }
   }
+
+
+.tagbox a{
+    color: rgb(24, 148, 96);
+    font-size: smaller;
+    text-transform: lowercase;
+    border: 1px solid rgb(159, 196, 154);
+    padding: 3px;
+    font-style: italic;
+    
+}

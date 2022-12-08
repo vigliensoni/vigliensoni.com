@@ -13,7 +13,7 @@ The contemporary and rapidly changing new music economy landscape requires resea
 ## Publications
 
 ### 2022
-[**Vigliensoni, G.**, L. McCallum, E. Maestre, and R. Fiebrink. 2022](../portfolio/30-vigliensoni22live). R-VAE: Live latent space drum rhythm generation from minimal-size datasets. _Journal of Creative Music Systems 1(1)_. doi: https://doi.org/10.5920/jcms.902.
+[**Vigliensoni, G.**, L. McCallum, E. Maestre, and R. Fiebrink. 2022](../portfolio/30-vigliensoni22live). R-VAE: Live latent space drum rhythm generation from minimal-size datasets. _Journal of Creative Music Systems 1(1)_. doi: [doi.org/10.5920/jcms.902](https://doi.org/10.5920/jcms.902).
 
 [**Vigliensoni, G.**, P. Perry, and R. Fiebrink. 2022](../portfolio/21-vigliensoni22smalldata). A small-data mindset for generative AI creative work. In Proceedings of the _Generative AI and HCI Workshop - Conference on Human Factors in Computing Systems Workshop (CHI2022)_. doi: [doi.org/10.5281/zenodo.7086327](https://doi.org/10.5281/zenodo.7086327).
 

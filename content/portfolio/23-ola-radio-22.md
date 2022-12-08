@@ -5,7 +5,8 @@ image = ""
 date = "2022-05-04T19:59:22+05:30"
 title = "Ola Radio guest set"
 weight = 87
-categories = ['mixtape']
+categories = ['music']
+tags = ['mixtape']
 years = ['2022']
 +++
 

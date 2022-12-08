@@ -6,6 +6,7 @@ date = "2022-05-04T18:25:22+05:30"
 title = "Shale (Restructure)"
 weight = 12
 categories = ['music']
+featured = true
 tags = ['']
 years = ['2022']
 +++

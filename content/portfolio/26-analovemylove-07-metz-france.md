@@ -5,7 +5,7 @@ image = "img/shows/ANALOVE7-INSTA.jpg"
 date = "2022-05-23T19:59:22+05:30"
 title = "vigliensoni+Tragatierra in France"
 weight = 39
-categories = ['performance']
+categories = ['music']
 years = ['2022']
 +++
 

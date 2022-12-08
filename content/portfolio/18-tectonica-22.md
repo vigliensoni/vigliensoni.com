@@ -5,7 +5,8 @@ image = "img/mixtapes/tectonica-1-800.jpg"
 date = "2022-05-04T19:59:22+05:30"
 title = "Tëctónîcä Guest Mix"
 weight = 82
-categories = ['mixtape']
+categories = ['music']
+tags = ['mixtape']
 years = ['2022']
 +++
 

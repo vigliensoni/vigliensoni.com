@@ -5,7 +5,7 @@ draft = false
 image = "img/covers/clastic-app-800.jpg"
 showonlyimage = false
 weight = 10
-categories = ['music']
+categories = ['music', 'featured']
 years = ['2022']
 +++
 

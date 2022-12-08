@@ -6,7 +6,7 @@ date = "2022-09-23T19:59:22+05:30"
 title = "Modelamiento rítmico y creación musical con espacios latentes"
 weight = 30
 categories = ['presentation']
-tags = ['artist talk']
+tags = ['talk']
 years = ['2022']
 +++
 

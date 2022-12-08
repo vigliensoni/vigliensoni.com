@@ -6,7 +6,7 @@ image = "img/covers/clastic-cover-800.jpg"
 showonlyimage = false
 weight = 11
 categories = ['music', 'featured']
-tags = ['album', 'release']
+tags = ['album', 'release', 'research']
 years = ['2022']
 +++
 

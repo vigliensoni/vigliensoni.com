@@ -6,7 +6,7 @@ date = "2022-10-12T19:59:22+05:30"
 title = "Clastic Music: Modelamiento rítmico y creación musical con espacios latentes"
 weight = 30
 categories = ['workshop']
-tags = ['artist talk']
+tags = ['talk']
 years = ['2022']
 +++
 

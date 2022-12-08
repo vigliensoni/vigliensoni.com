@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = ""
+image = "img/papers/vae-schematic.jpg"
 date = "2022-09-01T19:59:22+05:30"
 title = "R-VAE: Live latent space drum rhythm generation from minimal-size datasets"
 weight = 11
@@ -11,6 +11,7 @@ years = ['2022']
 +++
 
 Gabriel Vigliensoni, Louis McCallum, Esteban Maestre, and Rebecca Fiebrink. 2022.  _Journal of Creative Music Systems 1(1)._
+
 
 <br><br>
 

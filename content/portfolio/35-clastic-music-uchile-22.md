@@ -1,6 +1,6 @@
 +++
 showonlyimage = false
-draft = false
+draft = true
 image = "img/workshops/uchile-22-800.jpg"
 date = "2022-10-12T19:59:22+05:30"
 title = "Clastic Music: Modelamiento rítmico y creación musical con espacios latentes"

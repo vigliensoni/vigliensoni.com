@@ -65,7 +65,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Workshops & talks"
-  url = "categories/workshop/"
+  url = "categories/presentation/"
 
   # [[params.navlinks]]
   # name = "Live performance"

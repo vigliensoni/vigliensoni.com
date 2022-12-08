@@ -15,14 +15,28 @@ years = ['2004']
 
 {{< bandcamp-sm 3877997133 >}}
 
+
+
+
+
 Voz en "Elige me" por Javiera Mena
 Voz en "Plex" y "Alivio" por Kevin Sanders
 Espectro en "Me lanzo" por Max del Sólar
+
 
 Masterizado en OjoParlante por Óscar López
 
 Nueva portada por Antonia Hernández
 
 © 2004 Gabriel Vigliensoni ℗ 2004 OjoParlante/GmbH
+
+
+
+{{<youtube-custom id="CNaXSnHpZpI" autoplay="false" width="200px" height="200px" color="white" modestbranding="1">}}
+Music by vigliensoni, lyrics by Javiera Mena. 
+Voice by Javiera Mena and vigliensoni. 
+Public Domain footage: Exercise and Health (1949)
+
+<br><br>
 
 [MusicBrainz](https://musicbrainz.org/release-group/9a570fb6-bb83-44fb-a423-9dbd634cada0) | [Discogs](https://www.discogs.com/Gabriel-Vigliensoni-Nata/release/3528903)

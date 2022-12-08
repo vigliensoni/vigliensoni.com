@@ -15,7 +15,9 @@ years = ['2022']
 
 Scintillation is the result of a first time collaboration between CMD and vigliensoni. It explores our joint desires for fast-paced rhythms, propulsive basslines, and affective melodies.
 
-{{< youtube 2058681707>}}
+{{<youtube-custom id="7M66o6Sfg0s" yt_start="0" autoplay="false" width="200px" height="200px" color="white" modestbranding="1" class="vertical-video">}}
+
+
 
 <br/><br/>
 

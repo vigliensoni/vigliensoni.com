@@ -6,13 +6,14 @@ date = "2022-05-04T19:59:22+05:30"
 title = "A small-data mindset for generative AI creative work"
 weight = 12
 categories = ['publication', 'featured']
-tags = ['research']
+tags = ['research', 'paper']
 years = ['2022']
 +++
 
-[Gabriel Vigliensoni,  Phoenix Perry, and Rebecca  Fiebrink. 2022. In _Proceedings of the Generative AI and HCI Workshop_ - Conference on Human Factors in Computing Systems Workshop (CHI2022).](https://zenodo.org/record/7086327)
 
 <!--more-->
+
+[Gabriel Vigliensoni,  Phoenix Perry, and Rebecca  Fiebrink. 2022. In _Proceedings of the Generative AI and HCI Workshop_ - Conference on Human Factors in Computing Systems Workshop (CHI2022).](https://zenodo.org/record/7086327)
 
 ABSTRACT
 

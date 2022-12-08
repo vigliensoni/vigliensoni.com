@@ -1,0 +1,15 @@
+<!-- Custom youtube shortcode with more features, taken from
+https://martijnvanvreeden.nl/optimizing-the-youtube-shortcode-for-hugo/
+
+The following options / parameters are provided:
+
+    color: by default red, only alternative value is “white”. Set with “color” parameter
+    yt_start: to set start time in seconds
+    yt_end: to set end time in seconds, starting from 0 or the yt_start value
+    modestbranding: standard shows branding, if set to “true”, Youtube logo is not shown
+    autoplay: when set to “true”, video starts playing on load of page -->
+
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe src="https://www.youtube.com/embed/{{ .Get "id" }}?enablejsapi=1{{ with .Get "color" }}{{ if eq . "white" }}&color=white{{ end }}{{ end }}{{ with .Get "autoplay" }}{{ if eq . "true" }}&autoplay=1{{ end }}{{ end }}{{ if isset .Params "yt_start" }}&start={{ .Get "yt_start" }}{{ end }}{{ if isset .Params "yt_end" }}&end={{ .Get "yt_end" }}{{ end }}{{ with .Get "modestbranding" }}{{ if eq . "true" }}&modestbranding=1{{ end }}{{ end }}"{{ if .Get "class" }} class="{{ .Get "class" }}"{{ end }} allowfullscreen></iframe>
+  </div>

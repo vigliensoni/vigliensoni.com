@@ -20,6 +20,10 @@
     }
   }
 
+.video-shortcode {
+    max-width: 100%;
+    height: auto;
+}
 
 .tagbox a{
     color: rgb(24, 148, 96);
@@ -27,6 +31,5 @@
     text-transform: lowercase;
     border: 1px solid rgb(159, 196, 154);
     padding: 3px;
-    font-style: italic;
-    
+    font-style: italic;   
 }

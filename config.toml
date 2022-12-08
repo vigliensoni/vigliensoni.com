@@ -11,10 +11,10 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Website for music artist, performer and researcher Gabriel Vigliensoni."
+  description = "Website for music artist and researcher Gabriel Vigliensoni."
   copyright = "&copy;2022 Gabriel Vigliensoni"
   sidebarAbout = [
-    "Music artist, performer, and researcher.",
+    "Music artist and researcher.",
     # "Originally from Toronto, currently based in London."
   ]
   # Contact page
@@ -43,41 +43,48 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "portfolio/"
+  url = "categories/featured"
   home = true
 
   [[params.navlinks]]
-  name = "About"
-  url = "about/"
+  name = "Portfolio"
+  url = "portfolio/"
+  home = false
 
   [[params.navlinks]]
   name = "Music"
   url = "categories/music"
+
+  # [[params.navlinks]]
+  # name = "Video"
+  # url = "video/"
 
   [[params.navlinks]]
   name = "Research"
   url = "research/"
 
   [[params.navlinks]]
-  name = "Workshops"
+  name = "Workshops & talks"
   url = "categories/workshop/"
 
-  [[params.navlinks]]
-  name = "Performance"
-  url = "categories/performance/"
+  # [[params.navlinks]]
+  # name = "Live performance"
+  # url = "categories/performance/"
 
   ## [[params.navlinks]]
   ## name = "Publications"
   ## url = "categories/publication"
 
 
-  [[params.navlinks]]
-  name = "Clastic Music"
-  url = "https://media.vigliensoni.com/clastic-music/"
+  # [[params.navlinks]]
+  # name = "Clastic Music"
+  # url = "https://media.vigliensoni.com/clastic-music/"
+
+
 
   [[params.navlinks]]
-  name = "Video"
-  url = "video/"
+  name = "About"
+  url = "about/"
 
   [[params.navlinks]]
   name = "Contact"

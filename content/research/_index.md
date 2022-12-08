@@ -15,7 +15,7 @@ The contemporary and rapidly changing new music economy landscape requires resea
 ### 2022
 [**Vigliensoni, G.**, L. McCallum, E. Maestre, and R. Fiebrink. 2022](../portfolio/30-vigliensoni22live). R-VAE: Live latent space drum rhythm generation from minimal-size datasets. _Journal of Creative Music Systems 1(1)_. doi: https://doi.org/10.5920/jcms.902.
 
-[**Vigliensoni, G.**, P. Perry, and R. Fiebrink. 2022](../portfolio/21-vigliensoni22smalldata). A small-data mindset for generative AI creative work. In Proceedings of the _Generative AI and HCI Workshop - Conference on Human Factors in Computing Systems Workshop (CHI2022)_.
+[**Vigliensoni, G.**, P. Perry, and R. Fiebrink. 2022](../portfolio/21-vigliensoni22smalldata). A small-data mindset for generative AI creative work. In Proceedings of the _Generative AI and HCI Workshop - Conference on Human Factors in Computing Systems Workshop (CHI2022)_. doi: [doi.org/10.5281/zenodo.7086327](https://doi.org/10.5281/zenodo.7086327).
 
 
 ### 2021
@@ -24,9 +24,9 @@ The contemporary and rapidly changing new music economy landscape requires resea
 
 ### 2020
 
-**Vigliensoni, G.**, L. McCallum, E. Maestre, and R. Fiebrink. 2020. Generation and visualization of rhythmic latent spaces. In _Proceedings of the 2020 Joint Conference on AI Music Creativity_.
+[**Vigliensoni, G.**, L. McCallum, E. Maestre, and R. Fiebrink. 2020](../portfolio/22-vigliensoni21generation). Generation and visualization of rhythmic latent spaces. In _Proceedings of the 2020 Joint Conference on AI Music Creativity_. doi: [doi.org/10.5281/zenodo.4285422](https://doi.org/10.5281/zenodo.4285422)
 
-**Vigliensoni, G.**, L. McCallum, and R. Fiebrink. 2020. Creating latent spaces for modern music genre rhythms using minimal training data. In _Proceedings of the International Conference on Computational Creativity (ICCC’20)_.
+[**Vigliensoni, G.**, L. McCallum, and R. Fiebrink. 2020](../portfolio/20-vigliensoni20creating). Creating latent spaces for modern music genre rhythms using minimal training data. In _Proceedings of the 11th International Conference on Computational Creativity (ICCC’20)_. doi: [doi.org/10.5281/zenodo.7415792](https://doi.org/10.5281/zenodo.7415792)
 
 **Vigliensoni, G.**, E. Maestre, and R. Fiebrink. 2020. Web-based dynamic visualization of rhythmic latent space. In _Proceedings of the Sound, 
 Image and Interaction Design Symposium (SIIDS2020)_.

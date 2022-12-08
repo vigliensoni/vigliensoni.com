@@ -27,6 +27,16 @@
                                 {{ else }}
                                   {{ .Summary }}
                                 {{ end }}
+                                
+                                <div class="tagbox">
+                                {{ range $i, $e := .Params.tags -}}
+                                
+                                {{- if $i -}} &nbsp; {{ end -}}
+                                
+                                  <a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ $e | humanize }}</a>
+                                
+                                {{- end -}}
+                              </div>
                             </p>
                           </div>
                       </div>

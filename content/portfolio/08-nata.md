@@ -6,6 +6,7 @@ date = "2022-05-04T20:22:08+05:30"
 title = "Nata"
 weight = 69
 categories = ['music']
+tags = ['album', 'release']
 years = ['2004']
 +++
 

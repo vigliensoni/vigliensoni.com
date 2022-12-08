@@ -6,12 +6,14 @@ image = "img/covers/scintillation-800.jpg"
 showonlyimage = false
 weight = 10
 categories = ['music']
+tags = ['single', 'release']
 years = ['2022']
 +++
 
-Scintillation is the result of a first time collaboration between CMD and vigliensoni. It explores our joint desires for fast-paced rhythms, propulsive basslines, and affective melodies.
+
 <!--more-->
 
+Scintillation is the result of a first time collaboration between CMD and vigliensoni. It explores our joint desires for fast-paced rhythms, propulsive basslines, and affective melodies.
 
 {{< youtube 2058681707>}}
 

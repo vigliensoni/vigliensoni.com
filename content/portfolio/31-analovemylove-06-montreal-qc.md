@@ -5,7 +5,8 @@ image = "img/shows/220429-montreal-sq-800.jpg"
 date = "2022-04-01T19:59:22+05:30"
 title = "Clastic music à Montréal"
 weight = 39
-categories = ['performance']
+categories = ['music']
+tags = ['live']
 years = ['2022']
 +++
 

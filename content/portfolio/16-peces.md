@@ -6,6 +6,7 @@ date = "2022-05-04T19:59:22+05:30"
 title = "Peces"
 weight = 103
 categories = ['music']
+tags = ['album', 'release']
 years = ['1995']
 +++
 

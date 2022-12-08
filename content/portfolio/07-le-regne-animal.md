@@ -6,6 +6,7 @@ date = "2022-05-04T19:59:22+05:30"
 title = "Le Règne Animal (2014)"
 weight = 64
 categories = ['music']
+tags = ['ep', 'release']
 years = ['2014']
 +++
 

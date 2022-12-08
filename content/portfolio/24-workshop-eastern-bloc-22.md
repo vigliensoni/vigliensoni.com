@@ -6,6 +6,7 @@ date = "2022-04-30T19:59:22+05:30"
 title = "Interactive machine learning for musicians and artists workshop"
 weight = 38
 categories = ['workshop']
+tags = ['workshop']
 years = ['2022']
 +++
 

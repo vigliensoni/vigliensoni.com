@@ -7,7 +7,7 @@ title = "Shale (Restructure)"
 weight = 12
 categories = ['music']
 featured = true
-tags = ['']
+tags = ['single', 'release']
 years = ['2022']
 +++
 

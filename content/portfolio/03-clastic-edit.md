@@ -6,6 +6,7 @@ title = "Clastic (Restructure)"
 draft = false
 weight = 13
 categories = ['music']
+tags = ['single', 'release']
 years = ['2022']
 +++
 

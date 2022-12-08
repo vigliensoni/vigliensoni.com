@@ -6,6 +6,7 @@ date = "2022-05-04T19:53:42+05:30"
 title = "Imágenes Paganas (2016)"
 weight = 67
 categories = ['music']
+tags = ['single', 'release']
 years = ['2016']
 +++
 

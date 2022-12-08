@@ -6,6 +6,7 @@ date = "2022-05-04T19:59:22+05:30"
 title = "Lucybell (Disco Rojo)"
 weight = 101
 categories = ['music']
+tags = ['album', 'release']
 years = ['1998']
 +++
 

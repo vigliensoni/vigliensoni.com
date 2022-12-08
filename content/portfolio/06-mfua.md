@@ -6,6 +6,7 @@ title = "Michael Failed Us All (2018)"
 showonlyimage = false
 weight = 17
 categories = ['music', 'featured']
+tags = ['album', 'release']
 years = ['2018']
 +++
 

@@ -6,6 +6,7 @@ title = "Tiene que parar ahí (2015)"
 draft = false
 weight = 66
 categories = ['music']
+tags = ['single', 'release']
 years = ['2015']
 +++
 

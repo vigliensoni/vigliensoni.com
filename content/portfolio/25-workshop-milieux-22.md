@@ -6,6 +6,7 @@ date = "2022-05-09T19:59:22+05:30"
 title = "Introduction to machine learning for creative practice workshop"
 weight = 39
 categories = ['workshop']
+tags = ['workshop']
 years = ['2022']
 +++
 

@@ -6,6 +6,7 @@ date = "2022-05-04T19:59:22+05:30"
 title = "Pic Nic"
 weight = 92
 categories = ['music']
+tags = ['album', 'release']
 years = ['2002']
 +++
 

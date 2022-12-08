@@ -6,6 +6,7 @@ date = "2022-05-04T19:59:22+05:30"
 title = "A small-data mindset for generative AI creative work"
 weight = 12
 categories = ['publication', 'featured']
+tags = ['research']
 years = ['2022']
 +++
 

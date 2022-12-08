@@ -6,7 +6,7 @@ date = "2022-05-04T20:02:19+05:30"
 title = "Jaguar (2015)"
 weight = 65
 categories = ['music']
-tags = ['vigliensoni']
+tags = ['ep', 'release']
 years = ['2015']
 +++
 

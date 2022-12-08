@@ -6,6 +6,7 @@ date = "2022-05-04T19:59:22+05:30"
 title = "Generation and visualization of rhythmic latent spaces"
 weight = 26
 categories = ['publication', 'featured']
+tags = ['research']
 years = ['2020']
 +++
 

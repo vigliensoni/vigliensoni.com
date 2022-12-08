@@ -5,7 +5,8 @@ image = "img/shows/IKLECTIK2022.gif"
 date = "2022-05-23T19:59:22+05:30"
 title = "Iklectik Art Lab"
 weight = 39
-categories = ['performance']
+categories = ['music']
+tags = ['live']
 years = ['2022']
 +++
 

@@ -6,6 +6,7 @@ date = "2022-09-01T19:59:22+05:30"
 title = "R-VAE: Live latent space drum rhythm generation from minimal-size datasets"
 weight = 11
 categories = ['publication']
+tags = ['research']
 years = ['2022']
 +++
 

@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = ""
+image = "img/papers/visualizer.jpg"
 date = "2022-05-04T19:59:22+05:30"
 title = "Generation and visualization of rhythmic latent spaces"
 weight = 26

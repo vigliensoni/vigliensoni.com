@@ -5,7 +5,7 @@ image = "img/papers/vae-schematic.jpg"
 date = "2022-09-01T19:59:22+05:30"
 title = "R-VAE: Live latent space drum rhythm generation from minimal-size datasets"
 weight = 11
-categories = ['publication']
+categories = ['publication', 'featured']
 tags = ['research']
 years = ['2022']
 +++

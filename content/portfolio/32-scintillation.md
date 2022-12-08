@@ -6,7 +6,7 @@ image = "img/covers/scintillation-800.jpg"
 showonlyimage = false
 weight = 10
 categories = ['music']
-tags = ['single', 'release']
+tags = ['single', 'release', 'colab']
 years = ['2022']
 +++
 

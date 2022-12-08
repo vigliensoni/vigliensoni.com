@@ -3,14 +3,14 @@ showonlyimage = false
 draft = false
 image = "img/interviews/pirate-radio-22.jpg"
 date = "2022-04-20T19:59:22+05:30"
-title = "Interview for Pirate Bloc Radio, CKUT 90.3FM Montréal"
+title = "Interview for CKUT, 90.3FM Montréal"
 weight = 38
 categories = ['press']
 tags = ['interview']
 years = ['2022']
 +++
 
-
+Pirate Bloc Radio show.
 
 
 <!--more-->

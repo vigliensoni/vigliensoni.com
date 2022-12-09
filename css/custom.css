@@ -33,3 +33,12 @@
     padding: 3px;
     font-style: italic;   
 }
+
+#date {
+    color: rgb(0, 0, 0);
+    font-size: large;
+    text-transform: lowercase;
+    border: 0px solid black;
+    padding: 3px;
+    font-style: normal;
+}

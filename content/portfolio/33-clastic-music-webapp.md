@@ -14,8 +14,6 @@ years = ['2022']
 
 <!--more-->## [{{< figure src="/img/covers/clastic-app-800.jpg" alt="clastic app" >}}](https://media.vigliensoni.com/clastic-music)
 
-<!-- {{<website "https://media.vigliensoni.com/clastic-music">}} -->
-
 
 The Clastic Music web app is an interactive application where images are rendered in real time and react to music and human input. The app is result of a collaboration between visual artist Eduardo Pérez and myself. 
 
@@ -45,7 +43,9 @@ We hope you like it!
 
 Guayo & Gabriel
 
-## [Open the app!](https://media.vigliensoni.com/clastic-music)
+**Play with the app here:**
+
+{{<website "https://media.vigliensoni.com/clastic-music">}}
 
 PS: You can also check the [open-source code repository here](https://github.com/vigliensoni/clastic-music-app).
 

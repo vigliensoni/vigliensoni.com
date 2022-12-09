@@ -12,10 +12,13 @@ years = ['2022']
 
 
 
-<!--more-->## [{{< figure src="/img/covers/clastic-app-800.jpg" alt="clastic app" >}}](https://media.vigliensoni.com/clastic-music)
+<!--more-->
+Project developed by visual artist [Eduardo Pérez Infante](https://perezinfante.com/) and Gabriel Vigliensoni.
+
+## [{{< figure src="/img/covers/clastic-app-800.jpg" alt="clastic app" >}}](https://media.vigliensoni.com/clastic-music)
 
 
-The Clastic Music web app is an interactive application where images are rendered in real time and react to music and human input. The app is result of a collaboration between visual artist Eduardo Pérez and myself. 
+**The Clastic Music web app is an interactive application where images are rendered in real time and react to music and human input.**
 
 <br><br>
 
@@ -23,7 +26,7 @@ The Clastic Music web app is an interactive application where images are rendere
 
 Some time ago, Eduardo and I  were working on an A/V presentation for a show at Mutek Montréal. We didn't know at the moment, but that show turn up to be the Clastic Music record. A few months into the pandemic, we came up with the idea of making an interactive release so that people could enjoy and play with the A/V show at home.
 
-We took the footage and sound recorded during the show, generated a series of patches using the Hydra synth (awesome JS library by Olivia Jack, check it out!), and designed human-computer interaction patterns so that people like you were able to control the generated visuals.
+We took the footage and sound recorded during the show, generated a series of patches using the [Hydra synth](https://github.com/hydra-synth/hydra-synth) (awesome JS library by Olivia Jack, check it out!), and designed human-computer interaction patterns so that people like you were able to control the generated visuals.
 
 {{<youtube id="uz3YEbMRJdg" class="vertical-video" >}}
 <br><br>
@@ -39,38 +42,20 @@ In the webapp, the nine tracks of the Clastic music record have different video 
 
 The Clastic music app works best in Firefox and Chrome. iOS devices and Safari are not currently supported.
 
-We hope you like it!
 
-Guayo & Gabriel
 
-**Play with the app here:**
+**Play with the webapp in [its site](https://media.vigliensoni.com/clastic-music), or here:**
 
 {{<website "https://media.vigliensoni.com/clastic-music">}}
 
-PS: You can also check the [open-source code repository here](https://github.com/vigliensoni/clastic-music-app).
+<br><br>
+PS: You can also check the [open-source code repository.](https://github.com/vigliensoni/clastic-music-app).
 
 
-### Credits
+#### Credits
 
-Composed and produced by Gabriel Vigliensoni. 
-
-Hydra visualizations by Eduardo Pérez Infante. 
-
-Concept design and cover by Antonia Hernández. 
-
-Mastered by Rupert Clervaux.
-
-Web application built with Hydra Synth by Olivia Jack
-
-Video footage recorded during MUTEK 2020, Montréal.
-
-Big thanks to:
-
-Mar Colasso, Daniela Cross and Delfina, Rebecca Fiebrink and Oscar, Ichiro Fujinaga, Claudine Hubert, Esteban Maestre, Louis McCallum, Alan Mongeau, Néstor Nápoles, Andrés Poblete, Evan Savage, Samuel Thulin, Santiago Uribe, Marc-Pierre Verge, Lizzie Wilson, AAS, CIRMMT, FRQSC, MIMIC project, and MUTEK Montréal.
-
-
-
-<!-- {{< youtube 2058681707>}} -->
-<!-- {{<youtube id="e2E7m4-4i9k" class="vertical-video" >}} -->
-
-
+- Music composed and produced by Gabriel Vigliensoni. 
+- Hydra visualizations by Eduardo Pérez Infante. 
+- Concept design and cover by Antonia Hernández. 
+- Mastered by Rupert Clervaux.
+- Video footage recorded during MUTEK 2020, Montréal.

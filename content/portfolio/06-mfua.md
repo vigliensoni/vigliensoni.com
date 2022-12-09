@@ -15,9 +15,17 @@ years = ['2018']
 
 Trying to compose in a different, non-linear way, I decided to try to define the rules of a process and leave it running for a desired amount of time.
 
+{{< bandcamp-sm 2323618290 >}}
+
+For *Michael Failed Us All*, I took a two-bar sample of the anthem We Are the World, song written by Michael Jackson and Lionel Ritchie for the USA for Africa project. For some reason, those two bars have accompanied me for a long time.
+
+I loaded that piece of audio into a granular synthesizer and defined a series of automations that changed the behavior of the device over time.
+
+The result was an ever-evolving and soothing piece of music that was a reflection of the original sample and the rules I had programmed. It was a unique piece that could not have been produced any other way.
+
+
 Composed and produced by Gabriel Vigliensoni during winter, 2018.
 
-{{< bandcamp-sm 2323618290 >}}
 
 Released by No Problema Tapes (NOP-079)
 

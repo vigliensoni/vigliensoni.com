@@ -1,6 +1,6 @@
 +++
 showonlyimage = false
-draft = true
+draft = false
 image = "/img/others/mapa.jpg"
 date = "2021-12-9T19:59:22+05:30"
 title = "Ñe'ê: Earwitnessing hidden stories from the South"
@@ -11,6 +11,10 @@ years = ['2022']
 +++
 
 <!--more-->
+
+Project conceived and developed by [Maar Colasso](https://maar.world/) and Gabriel Vigliensoni.
+
+[Check the generative radio portal site.](https://media.vigliensoni.com/code/generative-radio/test/)
 
 **_Ñe'ê: Earwitnessing hidden stories from the South_ is a generative radio project and sound performance that seeks to unveil stories and historical events from the Latin-American South on the idea of disappearance and memory**. By placing together sound objects from distant geographies, times, and cultures in a non-binding way—therefore allowing the interaction of their contexts, memories, and temporal densities—this project aims at enabling the audience to reflect and provide meaning to these events. 
 
@@ -32,5 +36,5 @@ hear the word Ñe'ê accompanied by music. Musical instruments also have a spiri
 {{<figure src="/img/others/nehe-mapa-placing.jpg">}}
 In the figure, we show a conceptual plan with the components of the live performance that will celebrate the opening of the generative radio portal. Different modes of participation are highlighted in red, different activities in greed, and content layers in blue. The arrangement of the loudspeakers and the placement of the stage within the performance space are explained in the accompanying document with the technical requirements. Colors in the map of South America indicate the territories of contemporary Uruguay (light blue) and Chile (red). The larger colored territory on the map (green) corresponds to the countries where Guaraní populations currently live.
 
-[Check the generative radio portal in the site.](https://media.vigliensoni.com/code/generative-radio/test/)
+
 

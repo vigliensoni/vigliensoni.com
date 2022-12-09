@@ -1,6 +1,6 @@
 +++
 date = "2022-05-04T19:41:01+05:30"
-title = "Clastic Music (2022)"
+title = "Clastic Music"
 draft = false
 image = "img/covers/clastic-cover-800.jpg"
 showonlyimage = false

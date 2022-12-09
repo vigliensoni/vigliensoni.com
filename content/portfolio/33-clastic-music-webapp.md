@@ -1,6 +1,6 @@
 +++
 date = "2022-11-14T19:41:01+05:30"
-title = "Clastic music web application (2022)"
+title = "Clastic music web application"
 draft = false
 image = "img/papers/web-app-landing.gif"
 showonlyimage = false

@@ -2,7 +2,7 @@
 image = "img/covers/tiene-square-2.gif"
 showonlyimage = false
 date = "2022-05-04T19:57:40+05:30"
-title = "Tiene que parar ahí (2015)"
+title = "Tiene que parar ahí"
 draft = false
 weight = 66
 categories = ['music']

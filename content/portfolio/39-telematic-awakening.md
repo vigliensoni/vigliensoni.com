@@ -6,7 +6,7 @@ date = "2021-11-19T19:59:22+05:30"
 title = "Telematic awakening"
 weight = 30
 categories = ['music', 'research', 'featured']
-tags = ['webapp', 'research', 'single', 'release']
+tags = ['research', 'single', 'release']
 years = ['2021']
 +++
 

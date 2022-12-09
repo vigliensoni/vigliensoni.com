@@ -1,10 +1,10 @@
 +++
 date = "2022-05-04T19:41:01+05:30"
-title = "Scintillation (2022)"
+title = "Scintillation"
 draft = false
 image = "img/covers/scintillation-800.jpg"
 showonlyimage = false
-weight = 18
+weight = 11
 categories = ['music']
 tags = ['single', 'release', 'colab']
 years = ['2022']

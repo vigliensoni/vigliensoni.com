@@ -5,10 +5,27 @@
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>{{ .Title }}</h1>
+         <!-- <div class="date"> {{ range first 1 .Params.years }} {{ . }} {{ end }} </div> -->
+         <div class="tagbox">
+          {{ range $i, $e := .Params.years -}}
+          {{- if $i -}} &nbsp; {{ end -}}
+            <a id="date" href='{{ "/years/" | relLangURL }}{{ . | urlize }}'>({{ $e }})</a>
+          {{- end -}}
+          &nbsp;
+          {{ range $i, $e := .Params.tags -}}
+          {{- if $i -}} &nbsp; {{ end -}}
+            <a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ $e | humanize }}</a>
+          {{- end -}}
+        </div>
+        <br>
          {{ .Content }}
          {{ template "_internal/disqus.html" . }}
       </div>
     </div>
   </div>
 </div>
+
+
+
+
 {{ end }}

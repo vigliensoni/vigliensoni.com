@@ -2,7 +2,7 @@
 date = "2022-11-14T19:41:01+05:30"
 title = "Clastic music web application (2022)"
 draft = false
-image = "img/covers/clastic-app-800.jpg"
+image = "img/papers/web-app-landing.gif"
 showonlyimage = false
 weight = 10
 categories = ['music', 'research', 'featured']
@@ -14,6 +14,7 @@ years = ['2022']
 
 <!--more-->## [{{< figure src="/img/covers/clastic-app-800.jpg" alt="clastic app" >}}](https://media.vigliensoni.com/clastic-music)
 
+<!-- {{<website "https://media.vigliensoni.com/clastic-music">}} -->
 
 
 The Clastic Music web app is an interactive application where images are rendered in real time and react to music and human input. The app is result of a collaboration between visual artist Eduardo Pérez and myself. 

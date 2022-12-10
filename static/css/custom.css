@@ -92,7 +92,7 @@
 
     .image.main {
         display: block;
-        margin: 4rem 0;
+        margin: 0rem 0;
         width: 100%;
     }
 
@@ -107,11 +107,11 @@
     @media screen and (max-width: 736px) {
 
         .image.fit {
-            margin: 2rem 0;
+            margin: 0rem 0;
         }
 
         .image.main {
-            margin: 2rem 0;
+            margin: 0rem 0;
         }
 
     }

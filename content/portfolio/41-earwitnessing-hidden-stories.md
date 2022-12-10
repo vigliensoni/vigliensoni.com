@@ -6,7 +6,7 @@ date = "2021-12-9T19:59:22+05:30"
 title = "Ñe'ê: Earwitnessing hidden stories from the South"
 weight = 20
 categories = ['music', 'research', 'featured']
-tags = ['webapp', 'research']
+tags = ['webapp', 'research', 'colab']
 years = ['2022']
 +++
 

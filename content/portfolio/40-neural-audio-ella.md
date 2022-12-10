@@ -4,9 +4,9 @@ draft = false
 image = "/img/pics-me/live/ella-15.gif"
 date = "2021-12-8T19:59:22+05:30"
 title = "Real-time control of neural audio synthesis | Ella"
-weight = 12
+weight = 15
 categories = ['music', 'research', 'featured']
-tags = ['live', 'research']
+tags = ['live', 'research', 'colab']
 years = ['2022']
 +++
 

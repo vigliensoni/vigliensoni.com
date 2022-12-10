@@ -34,7 +34,9 @@ I have been witnessing the uprising from abroad the country but have been pretty
 
 SOUND CORPUS
 
-I was  witnessing the uprising from abroad the country. As a way of participating in the demonstrations I have collected sound recordings from videos posted through social media. 
+Thanks to ubiquitous mobile phones, there is a very large number of first-person recordings taken directly from the streets where the manifestations are happening. Protesters post these recordings on social media from where we can watch and listen them before these are taken down.
+
+Very diverse type of sounds can be heard during the demonstrations: 
 
 **Field Recordings**. A number of sounds can be heard in the demonstrations. Most people protest from their own homes making noise by banging pots and pans in order to call for attention in a pacific manner. Protesters sing chants and shout slogans when attending manifestations in the streets. Police react by firing water cannons, teargas, and rubber bullets. The most violent protesters also make barricades to stop police. Some of these barricades have created massive fires. Sirens from police trucks and fire engines are com-monplace in the manifestations.
 
@@ -45,16 +47,17 @@ I was  witnessing the uprising from abroad the country. As a way of participatin
 
 LIVE INTERFACE
 
-For _Telematic awakening_, I play with the two sound corpora in a different fashion. While the field recordings are split into sound snippets of a specific short length, so that when looped they are synchronized to the tempo of the piece; the histor-ical recordings are split by phrase, so that the message they convey is always understood. Hand positions and gestures are acquired and mapped to the sound corpora. At perfor-mance time, I adjust the position of hands using acoustic feedback to play sounds of the same, or different, type.
+For _Telematic awakening_, I play with the two sound corpora in a different fashion. While the field recordings are split into sound snippets of a specific short length, so that when looped they are synchronized to the tempo of the piece; the historical recordings are split by phrase, so that the message they convey is always understood. Hand positions and gestures are acquired and mapped to the sound corpora. At performance time, I adjust the position of hands using acoustic feedback to play sounds of the same, or different, type.
+
+To play sounds, I decided to use AudioStellar (Garber, Ciccola, and Amusategui 2020). Field recording sounds are loaded into AudioStellar and characterized by specific audio features. This high-dimensional representation is then collapsed by the software into two dimensions. The resulting low-dimensional representation is convenient for sound distribution in space and sonic exploration. 
 
 {{<video autoplay="false" loop="true" controls="true" src="/videos/audiostellar.mp4" >}}
-Hundreds of sound snippets are distributed in a two-dimensional space after dimensionality reduction using t-sne clustering.
-
+After I assembled my sound corpus, I had to develop a way to interact with it. 
 
 Hand positions and gestures are acquired by the Leap Motion hand tracking device and Open Sound Control messages outputted by this device are parsed and rerouted us-ing Max/MSP. The Wekinator, an application for real-time supervised machine learning interaction, is used to learn gestures and positions and map them to specific zones in AudioStellar sound space.
 
 {{<figure src="/img/papers/telematic-diagram.jpg" alt="Schematic of mapping hand gestures into sound corpus">}}
-The image shows a high-level diagram of the mapping between sound gestures and the two sound corpora.
+The basic mechanism of interaction is shown in the figure. On your right, you can see that audios in the sound corpora consist of field recordings and historical recordings. These audios are split into short snippets, which are projected into a latent space of sounds. Then, on your left, you can see that the position of the hands of the performer are acquired in the performance space, and mapped to the sound snippets.
 
 PERFORMANCE
 

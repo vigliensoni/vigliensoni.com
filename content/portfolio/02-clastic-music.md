@@ -34,18 +34,15 @@ For the past two years, I've been doing research on the creative affordances of 
 
 {{<figure src="/img/others/clastic/1/2-800.jpg" alt="">}}
 
-<!-- {{<figure src="/img/others/clastic/1/5-800.jpg" alt="">}} -->
 
-{{<figure alt="" src="/img/others/clastic/3/cover_clastic-music-800.jpg">}}
-<br><br>
+{{<figure class="image main" src="/img/others/clastic/3/cover_clastic-music-800.jpg" alt="">}}
 
-I implemented R-VAE, a custom-built, machine learning-driven musical device to model and make rhythms. Clastic Music is the result of improvisations with models learned from bespoke datasets of rhythmic patterns from music that I am currently listening to using this instrument.
 
-Have I done this research on my own? Of course, not! Many people have been involved directly in this research and music album. Among them, my most sincere gratitude goes to Rebecca Fiebrink, Esteban Maestre, Louis McCallum, and Antonia Hernández for all their knowledge, brilliance, guidance, and support.
 
-I did the project while doing a postdoc at Goldsmiths University, London, and being a visiting research at CCI, University of the Arts London. An important push to the project came from participations at the MUTEK AI Art Lab, Network Music Festival, and the Machine Learning for Creativity and Design workshop at NeurIPS 2020.
 
-[You can find R-VAE on Github](https://github.com/vigliensoni/R-VAE), it is open source! It is heavily based on the work by Nao Tokui on RhythmVAE, which in turn is based on GrooVAE by Jon Gillick. Open source wonders! We built an awesome, unique visualizer for the rhythmic models. 
+Have I done this research on my own? Of course, not! Many people have been involved directly in this research and music album. Among them, my most sincere gratitude goes to Rebecca Fiebrink, Esteban Maestre, Louis McCallum, and Antonia Hernández for all their knowledge, brilliance, guidance, and support. We did the project while being a postdoc at Goldsmiths University, London, and a visiting research at CCI, University of the Arts London. An important push to the project came from participations at the MUTEK AI Art Lab, Network Music Festival, and the Machine Learning for Creativity and Design workshop at NeurIPS 2020.
+
+We implemented R-VAE, a custom-built, machine learning-driven musical device to model and make rhythms. Clastic Music is the result of improvisations with models learned from bespoke datasets of rhythmic patterns from music that I am currently listening to using this instrument. [You can find R-VAE on Github](https://github.com/vigliensoni/R-VAE), it is open source! It is heavily based on the work by Nao Tokui on RhythmVAE, which in turn is based on GrooVAE by Jon Gillick. Open source wonders! We built an awesome, unique visualizer for the rhythmic models. 
 
 
 

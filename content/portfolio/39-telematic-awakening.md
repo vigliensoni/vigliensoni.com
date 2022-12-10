@@ -47,7 +47,7 @@ LIVE INTERFACE
 
 For _Telematic awakening_, I play with the two sound corpora in a different fashion. While the field recordings are split into sound snippets of a specific short length, so that when looped they are synchronized to the tempo of the piece; the histor-ical recordings are split by phrase, so that the message they convey is always understood. Hand positions and gestures are acquired and mapped to the sound corpora. At perfor-mance time, I adjust the position of hands using acoustic feedback to play sounds of the same, or different, type.
 
-{{<video autoplay="0" loop="false" src="/videos/audiostellar.mp4" >}}
+{{<video autoplay="false" loop="true" controls="true" src="/videos/audiostellar.mp4" >}}
 Hundreds of sound snippets are distributed in a two-dimensional space after dimensionality reduction using t-sne clustering.
 
 

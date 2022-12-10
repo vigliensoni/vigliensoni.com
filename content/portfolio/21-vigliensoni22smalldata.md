@@ -10,6 +10,7 @@ tags = ['research', 'paper']
 years = ['2022']
 +++
 
+Generative AI and HCI
 
 <!--more-->
 

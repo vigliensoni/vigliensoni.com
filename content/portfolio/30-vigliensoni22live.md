@@ -11,6 +11,7 @@ tags = ['research', 'paper']
 years = ['2022']
 +++
 
+Journal of Creative Music Systems
 
 <!--more-->
 

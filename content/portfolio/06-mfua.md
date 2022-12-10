@@ -21,7 +21,7 @@ For *Michael Failed Us All*, I took a two-bar sample of the anthem We Are the Wo
 
 I loaded the piece of audio into a granular synthesizer and defined a series of automations that would change the behavior of the device over time. I set parameters such as grain size, playback speed, pitch, etc. that would be altered in various ways based on the automation curves I created. This allowed me to create an ever-evolving texture that was constantly changing and unpredictable. I then added effects to further shape the sound, creating an organic and dynamic soundscape.
 
-{{<video src="/img/covers/mfua-granulator.mp4" autoplay="true">}}
+{{<video src="/img/covers/mfua-granulator.mp4" autoplay="true" loop="true" controls="false">}}
 
 The result was a soothing music track that was a reflection of the original sample and the rules I had programmed. It was a unique piece that could not have been produced any other way.
 

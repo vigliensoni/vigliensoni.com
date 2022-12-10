@@ -12,33 +12,29 @@ years = ['2022']
 
 
 <!--more-->
-- Composed and produced by Gabriel Vigliensoni
-- Mastered by Rupert Clervaux
-Concept design and cover by Antonia Hernández
-
+Composed and produced by Gabriel Vigliensoni.<br>
+Mastered by Rupert Clervaux.<br>
+Concept design and cover by Antonia Hernández.
 
 {{< bandcamp-sm 964550967>}}
 
-<br/><br/>
-
-
-
-
+##### CLAST
 
 Clast is a term used in Geology to indicate fragments of rocks, or minerals, of varying sizes and characteristics. Clastic formations are new rocks, forms, or entities created out of pre-existing clasts.
 
-{{<figure src="/img/others/clastic/1/1-800.jpg" alt="">}}
-<br><br>
+{{<figure alt="Quartzite formations in clastic rocks." src="/img/others/clastic/1/1-800.jpg" alt="">}}
+Quartzite formations in clastic rocks.
+
+##### SCIENTIFIC RESEARCH
 
 For the past two years, I've been doing research on the creative affordances of machine learning in the context of music composition, production, and performance. I've used machine learning techniques and tools and put them into practice in my music-making. By doing so, I realized that clastic formations are somehow akin to how machine learning works—new entities are modeled, created, and built upon pre-existing data.
 
 {{<figure src="/img/others/clastic/1/2-800.jpg" alt="">}}
+Different clastic formations inside water torrents.
 
 
 {{<figure class="image main" src="/img/others/clastic/3/cover_clastic-music-800.jpg" alt="">}}
-
-
-
+Imagined clastic formations.
 
 Have I done this research on my own? Of course, not! Many people have been involved directly in this research and music album. Among them, my most sincere gratitude goes to Rebecca Fiebrink, Esteban Maestre, Louis McCallum, and Antonia Hernández for all their knowledge, brilliance, guidance, and support. We did the project while being a postdoc at Goldsmiths University, London, and a visiting research at CCI, University of the Arts London. An important push to the project came from participations at the MUTEK AI Art Lab, Network Music Festival, and the Machine Learning for Creativity and Design workshop at NeurIPS 2020.
 
@@ -46,7 +42,7 @@ We implemented R-VAE, a custom-built, machine learning-driven musical device to 
 
 
 
-**CREATIVE PROCESS**
+##### CREATIVE PROCESS
 
 I've been collecting a few thoughts to explain better some other aspects of the creative process and production of Clastic Music.
 
@@ -64,30 +60,30 @@ Here are a few pics and vids from some of the spaces where I worked on Clastic M
 
 {{<figure src="/img/others/clastic/2/1-home-800.jpg" alt="">}}
 Home setup. 
-<br><br>
+
 
 
 {{<figure src="/img/others/clastic/2/2-nancy-800.jpg" alt="">}}
 Rehearsals at Nancy Tobin's space in St Henri with awesome butterfly speakers.
-<br><br>
+
 
 {{<figure src="/img/others/clastic/2/3-cirmmt-800.jpg" alt="">}}
 Mix checking at CIRMMT's Critical Listening lab.
-<br><br>
+
 
 {{<figure src="/img/others/clastic/2/5-mutek-2018.gif" alt="">}}
 MUTEK 2018.
-<br><br>
 
 
-**ART, DESIGN, AND VISUALS**
+
+##### ART, DESIGN, AND VISUALS
 
 
 Antonia Hernández found a great photo of Pyramid Lake in Nevada (the Paiute name for the lake is Cui-ui Panunadu, meaning fish in standing water). In the image, taken by Timothy O'Sullivan in 1867, we can see the Pyramid, a large 70-meter height rock formation made of calcium carbonate, and smaller formations named the Dome. 
 
 {{<figure src="/img/others/clastic/3/1-Timothy_O'Sullivan,_The_Pyramid_and_Domes,_Pyramid_Lake,_Nevada,_1867-800.jpg" alt="">}}
 Photo by Timothy O'Sullivan (1867)
-<br><br>
+
 
 There's something eerie and beautiful in the photo, it brings to me a feeling of loneliness and nature power. In this respect, I feel a strong resonance with some of the tracks of Clastic Music.
 
@@ -95,34 +91,38 @@ Pyramid Lake and the Pyramid are in Paiute's land. White U.S. settlers and milit
 
 {{<figure src="/img/others/clastic/3/2-4758289421_38cbb99fac_o-by-John Hurst-1977-800.jpg" alt="">}}
 Photo by John Hurst (1977)
-<br><br>
+
 
 The Truckee River, its major source of water, was damned and diverted for irrigation purposes. The lake has now lost nearly 100 feet in depth and hundreds of square miles of area. We hear similar stories everywhere, don't we? The politics of water. Now, due to the scarce water, calcium carbonate, algae, and plankton, Pyramid lake is changing colour to turquoise. 
 {{<figure src="/img/others/clastic/3/3-3377729218_3ba39513e1_3k-by-Luke-H-Gordon-2010-800.jpg" alt="">}}
 Photo by Luke Gordon (2010)
-<br><br>
+
 
 Antonia played around with a 3D model of a rock formation and overlaid this futuristic-looking formation on top of the old Pyramid lake photo. 
 
 {{<figure src="/img/others/clastic/2/0-800.jpg" alt="">}}
+3D model of a rock formation.
 
 {{<figure src="/img/covers/clastic-cover-800.jpg" alt="">}}
-<br><br>
+The 3D model overimposed on the Pyramic Lake image.
+
 
 The two formations: the past, and our present and future. Together. By looking at the composite image, I have the impression that we could walk on the formations as if they were a single entity—we are in control of how we want the world to look. Let's make something beautiful.
 
 Eduardo Pérez Infante  worked on the visuals for the live show. He found great imagery on different types of natural formations and play around with them. 
 
 {{<figure src="/img/others/clastic/3/glaciar_perito_moreno.gif" alt="">}}
-<br><br>
+
 
 Finally, sketches and prototype of the beautiful and sexy harness that Fran González made for the record launch, and an in-attitude photo shoot by Myriam Menard. 
 
 {{<figure src="/img/others/clastic/3/harness-800.jpg" alt="">}}
-<br><br>
+Sketches and prototype of performance harness.
+
 
 {{<figure src="/img/others/clastic/3/10-800.jpg" alt="">}}
-<br><br>
+Clastic harness in action.
+
 
 
 [Buy the the record on Bandcamp or listen to it in any major streaming service ](https://ampl.ink/clastic-music)

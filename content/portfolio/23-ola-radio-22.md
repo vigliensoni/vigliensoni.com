@@ -10,7 +10,7 @@ tags = ['mixtape']
 years = ['2022']
 +++
 
-Guest set for Klusa Daba's Exploring the Sword Coast at Ola Radio, Marseille.
+Guest set for Ola Radio. Marseille, France.
 
 
 <!--more-->

@@ -10,7 +10,6 @@ tags = ['single', 'release', 'colab']
 years = ['2021']
 +++
 
-By _Tragatierra_
 <!--more-->
 
 Letra y música por Ignacio Redard y Gabriel Vigliensoni.

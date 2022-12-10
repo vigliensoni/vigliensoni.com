@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/covers/michael-800.jpg"
+image = "img/covers/michael.gif"
 date = "2016-11-05T19:56:17+05:30"
 title = "Michael Failed Us All"
 showonlyimage = false
@@ -13,18 +13,21 @@ years = ['2018']
 
 <!--more-->
 
-Trying to compose in a different, non-linear way, I decided to try to define the rules of a process and leave it running for a desired amount of time.
+I wanted to try something new in terms of musical composition, so I decided to experiment with a non-linear approach. This involved setting up a system with certain rules and parameters, and then allowing it to run for a predetermined amount of time. By doing this, I hoped to create a piece of music that was unique and created through a process that was different from my typical compositional and improvisatorial approach.
 
 {{< bandcamp-sm 2323618290 >}}
 
 For *Michael Failed Us All*, I took a two-bar sample of the anthem We Are the World, song written by Michael Jackson and Lionel Ritchie for the USA for Africa project. For some reason, those two bars have accompanied me for a long time.
 
-I loaded that piece of audio into a granular synthesizer and defined a series of automations that changed the behavior of the device over time.
+I loaded the piece of audio into a granular synthesizer and defined a series of automations that would change the behavior of the device over time. I set parameters such as grain size, playback speed, pitch, etc. that would be altered in various ways based on the automation curves I created. This allowed me to create an ever-evolving texture that was constantly changing and unpredictable. I then added effects to further shape the sound, creating an organic and dynamic soundscape.
 
-The result was an ever-evolving and soothing piece of music that was a reflection of the original sample and the rules I had programmed. It was a unique piece that could not have been produced any other way.
+{{<video src="/img/covers/mfua-granulator.mp4" autoplay="true">}}
 
+The result was a soothing music track that was a reflection of the original sample and the rules I had programmed. It was a unique piece that could not have been produced any other way.
 
-Composed and produced by Gabriel Vigliensoni during winter, 2018.
+Since this track is more a process than a linear piece of music, there are several different versions of it available (i.e., cassette version, SoundCloud, and other streaming providers) 
+
+Conceived and produced by Gabriel Vigliensoni during winter, 2018.
 
 
 Released by No Problema Tapes (NOP-079)

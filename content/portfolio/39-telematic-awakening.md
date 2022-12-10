@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "/img/papers/telematic-diagram.jpg"
+image = "/img/papers/audiostellar-inv-2.gif"
 date = "2021-11-19T19:59:22+05:30"
 title = "Telematic awakening"
 weight = 30

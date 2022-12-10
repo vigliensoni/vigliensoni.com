@@ -5,7 +5,7 @@ date = "2016-11-05T19:56:17+05:30"
 title = "Michael Failed Us All"
 showonlyimage = false
 weight = 17
-categories = ['music', 'featured']
+categories = ['music']
 tags = ['album', 'release']
 years = ['2018']
 +++

@@ -1,7 +1,8 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/papers/vae-schematic.jpg"
+# image = "img/papers/vae-schematic.jpg"
+image = "img/papers/rock.gif"
 date = "2022-09-01T19:59:22+05:30"
 title = "R-VAE: Live latent space drum rhythm generation from minimal-size datasets"
 weight = 15

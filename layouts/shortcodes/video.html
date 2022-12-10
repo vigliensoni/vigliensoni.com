@@ -1,4 +1,7 @@
-<video class="video-shortcode" preload="{{ .Get "preload" }}" {{ with .Get "autoplay" }}{{ if eq . "true" }} autoplay {{ end }}{{ end }} controls>
+<video class="video-shortcode" preload="{{ .Get "preload" }}" 
+{{ with .Get "autoplay" }}{{ if eq . "true" }} autoplay {{ end }}{{ end }}
+{{ with .Get "loop" }}{{ if eq . "true" }} loop {{ end }}{{ end }} 
+{{ with .Get "controls" }}{{ if eq . "true" }} controls {{ end }}{{ end }} >
     <source src="{{ .Get "src" }}" type="{{ .Get "type" }}">
     There should have been a video here but your browser does not seem
     to support it.

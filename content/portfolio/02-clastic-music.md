@@ -128,7 +128,7 @@ Finally, sketches and prototype of the beautiful and sexy harness that Fran Gonz
 
 [Buy the the record on Bandcamp or listen to it in any major streaming service ](https://ampl.ink/clastic-music)
 
-{{<website "https://ampl.ink/clastic-music">}}
+{{<website src="https://ampl.ink/clastic-music">}}
 
 
 ##### Big thanks to: 

@@ -16,10 +16,9 @@ Guest mixtape for People Mover, 1020 Radio, Bristol
 
 Aired on December 5, 2021
 
+
+
 {{<soundcloud-track 1172958553>}}
-
-{{<figure src="/img/playlists/people-mover-playlist-800.jpg">}}
-
 
 #### Playlist
 
@@ -47,3 +46,6 @@ Aired on December 5, 2021
 22.	_Biti Three_.	Bamba Pana	
 23.	_Zissou_.	Loft	
 24. _Falling_.	E B U
+
+
+{{<figure src="/img/mixtapes/people-mover-playlist-800.jpg">}}

@@ -6,21 +6,24 @@ image = "img/papers/web-app-landing.gif"
 showonlyimage = false
 weight = 10
 categories = ['music', 'research', 'featured']
-tags = ['webapp', 'research']
+tags = ['webapp', 'research', 'colab']
 years = ['2022']
 +++
 
 
 
 <!--more-->
-Project developed by visual artist [Eduardo Pérez Infante](https://perezinfante.com/) and Gabriel Vigliensoni.
-
-## [{{< figure src="/img/covers/clastic-app-800.jpg" alt="clastic app" >}}](https://media.vigliensoni.com/clastic-music)
 
 
-**The Clastic Music web app is an interactive application where images are rendered in real time and react to music and human input.**
 
-<br><br>
+The Clastic Music web app is an interactive application where images are rendered in real time and react to music and human input. It was conceived and developed by [Eduardo Pérez Infante](https://perezinfante.com/) and Gabriel Vigliensoni.
+
+{{< figure src="/img/covers/clastic-app-800.jpg" alt="clastic app" >}}Clastic music web application interface
+
+
+
+
+ 
 
 
 
@@ -29,7 +32,9 @@ Some time ago, Eduardo and I  were working on an A/V presentation for a show at 
 We took the footage and sound recorded during the show, generated a series of patches using the [Hydra synth](https://github.com/hydra-synth/hydra-synth) (awesome JS library by Olivia Jack, check it out!), and designed human-computer interaction patterns so that people like you were able to control the generated visuals.
 
 {{<youtube id="uz3YEbMRJdg" class="vertical-video" >}}
-<br><br>
+<div class="text-center text-color">Application patch for the track "Siltstone".</div>
+<br>
+ 
 
 
 
@@ -38,18 +43,19 @@ We took the footage and sound recorded during the show, generated a series of pa
 In the webapp, the nine tracks of the Clastic music record have different video synthesizer patches that you can interact with by moving the mouse around. The images also react to the music in real time. To enjoy it, select a track from the bottom of the page and play with the video synthesizer while you listen to the music.
 
 {{<youtube id="e2E7m4-4i9k" class="vertical-video" >}}
-<br><br>
+ <div class="text-center text-color">Application patch for the track "Sandstone".</div><br>
 
 The Clastic music app works best in Firefox and Chrome. iOS devices and Safari are not currently supported.
 
 
 
-**Play with the webapp in [its site](https://media.vigliensoni.com/clastic-music), or here:**
+##### You can check the [web app open-source code repository.](https://github.com/vigliensoni/clastic-music-app), play with it in [its site](https://media.vigliensoni.com/clastic-music), or here:
+<br>
 
 {{<website "https://media.vigliensoni.com/clastic-music">}}
 
-<br><br>
-PS: You can also check the [open-source code repository.](https://github.com/vigliensoni/clastic-music-app).
+ 
+
 
 
 #### Credits

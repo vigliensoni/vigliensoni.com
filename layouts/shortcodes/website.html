@@ -1,3 +1,11 @@
 <div class="embed website">
-    <iframe src="{{.Get 0}}" width="100%" height="400px" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+    <iframe 
+        src="{{.Get "src"}}" 
+        width="{{ default "100%" (.Get "width") }}"
+        height="{{ default "400px" (.Get "height") }}"
+        frameborder="0" 
+        allowfullscreen="allowfullscreen" 
+        allow="geolocation *; microphone *; camera *; midi *; encrypted-media *">
+</iframe>
 </div>
+

@@ -134,3 +134,12 @@
         -moz-transition:transform 1.05s ease-in-out;
         -ms-transition:transform 1.05s ease-in-out;
     }
+
+/* CENTER */
+
+
+.text-caption {
+    font-size: smaller;
+    color: rgb(33, 33, 33);
+    text-align: center;
+}

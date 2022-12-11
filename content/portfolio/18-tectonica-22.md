@@ -18,10 +18,6 @@ Aired on February 17, 2022
 
 {{<soundcloud-track 1217159512>}}
 
-{{<figure src="/img/playlist/tectonica-1-800.jpg">}}
-
-{{<figure src="/img/playlist/tectonica-playlists-2.jpg">}}
-
 #### Playlist
 
 1.	_Sand_.	Regis						
@@ -49,3 +45,7 @@ Aired on February 17, 2022
 23.	_Black Kaveera (pq & Ekhe's Recycle)_.	Nihiloxica						
 24.	_Peanuts Club (BeatauCue Remix)_.	Noob, Brodinski						
 25.	_Não Vou Deixar - EDIT_. Caetano Veloso						
+
+{{<figure src="/img/mixtapes/tectonica-1-800.jpg">}}
+
+{{<figure src="/img/mixtapes/tectonica-playlist-2.jpg">}}

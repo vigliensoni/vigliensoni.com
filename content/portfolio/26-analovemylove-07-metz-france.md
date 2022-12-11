@@ -17,37 +17,16 @@ June 20, 2022. Metz, France.
 {{< figure src="/img/shows/ANALOVE7-INSTA.jpg" alt="Analovemylog 7" >}}
  
 
-On June 20, 2022 I'll be performing for the first time in Metz, France, as part of the Analovemylog night organized by Chez.Kito.Kat Records.
+On June 20, 2022 I performed for the first time in Metz, France, as part of the Analovemylog night organized by Chez.Kito.Kat Records.
 
-Ignacio Redard will accompany me that night, and we'll perform a few Tragatierra tracks.
+Ignacio Redard accompanied me that night, performing Tragatierra tracks.
 
-Fellow artists participating are:
+More information: [show](https://laerogare.fr/programmation/analove-my-log-electro-party-7/) and [Facebook event](https://www.facebook.com/events/481926053710375/)
 
-𝗟𝗜𝗩𝗘 𝗦𝗘𝗧
+{{<website src="https://laerogare.fr/programmation/analove-my-log-electro-party-7/">}}
 
-[Animaux Primitifs (Nantes / Analog Ambiant)](https://chezkitokatrecords.bandcamp.com/track/animaux-primitifs-medusozoa)
 
-[Mr Bios (Metz / Techno)](https://soundcloud.com/mr-bios-1)
 
-[Vigliensoni (Chili / Avant Garde Electro)](https://soundcloud.com/vigliensoni)
-
-[Elaina Vierce (Argentine / Techno Break)](https://soundcloud.com/ela_s)
-
-[VFO89 (Brussels / Electro Break)](https://soundcloud.com/vfo89)
-
-𝗪𝗔𝗥𝗠 𝗨𝗣 𝗗𝗝’𝘀
-
-[S.H.I.Z.U.K.A.](https://soundcloud.com/s-h-i-z-u-k-a)
-
-[Kuston Beater (Luxembourg / Sound Design)](https://soundcloud.com/kuston-beater)
-
-[D.B.Y. (Dog Bless You) (Montreal / Lofi Break)](https://soundcloud.com/…/n10-as-vortex-il-cibo-by-d-b-y)
-
-More information
-
-[Show](https://laerogare.fr/programmation/analove-my-log-electro-party-7/)
-
-[Event](https://www.facebook.com/events/481926053710375/)
 
 
 

@@ -18,7 +18,8 @@ years = ['2022']
 
 The Clastic Music web app is an interactive application where images are rendered in real time and react to music and human input. It was conceived and developed by [Eduardo Pérez Infante](https://perezinfante.com/) and Gabriel Vigliensoni.
 
-{{< figure src="/img/covers/clastic-app-800.jpg" alt="clastic app" >}}<div class="text-caption">Clastic music web application interface</div>
+{{<figure src="/img/covers/clastic-app-800.jpg">}}
+<div class="text-caption">Clastic music web application interface</div>
 
 Some time ago, Eduardo and I  were working on an A/V presentation for a show at Mutek Montréal. We didn't know at the moment, but that show turn up to be the Clastic Music record. A few months into the pandemic, we came up with the idea of making an interactive release so that people could enjoy and play with the A/V show at home.
 
@@ -44,7 +45,7 @@ The Clastic music app works best in Firefox and Chrome. iOS devices and Safari a
 
 You can check the web app [open-source code repository](https://github.com/vigliensoni/clastic-music-app), play with it in [its site](https://media.vigliensoni.com/clastic-music), or in the following window:
 
-{{<website "https://media.vigliensoni.com/clastic-music">}}
+{{<website src="https://media.vigliensoni.com/clastic-music" height="500px">}}
 
 ##### Instructions:
 

@@ -20,7 +20,7 @@ Generative AI and HCI
 
 In this paper, we argue that working with small-scale datasets is an often-overlooked but powerful mechanism for enabling greater human influence over generative AI (GenAI) systems in creative contexts. We describe some of the benefits of working with small-scale data, and we argue that conventional ways of thinking about the value of large data, such as preventing overfitting, are not always well-matched to creative aims. We discuss how models built with small-scale data can facilitate meaningful creative work, providing examples from text, image, and sound
 
-{{<website "https://media.vigliensoni.com/projector/GenAICHI-2022">}}
+{{<website src="https://media.vigliensoni.com/projector/GenAICHI-2022">}}
 <div class="text-caption">Presentation interactive slides (move with the arrows or click on the image)</div>
 
 

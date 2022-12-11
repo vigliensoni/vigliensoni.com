@@ -15,6 +15,6 @@ CIRMMT. Montréal, QC.
 
 <!--more-->
 
-{{<website "https://media.vigliensoni.com/projector/ECHOES2021/">}}
+{{<website src="https://media.vigliensoni.com/projector/ECHOES2021/">}}
 
 

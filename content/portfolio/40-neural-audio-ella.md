@@ -13,6 +13,9 @@ years = ['2022']
 <!--more-->
 
 {{<youtube sGWzJ3-YuuU>}}
+<div class="text-caption">Street improvisation with neural audio synthesis models.</div>
+
+
 In the video I am improvising with sound artist dedosmuertos, in La Villette, Paris. I am interacting in real time with the latent space representation of several models trained on raw audio using the RAVE neural network architecture (Caillon and Esling, 2021). To interact with the latent space, I am using a Gametrak controller. By means of Wekinator (Fiebrink and Cook, 2009), an application for supervised, interactive machine learning, I'm mapping the performance space to the latent space representation of the model.
 
 **MOTIVATION**
@@ -46,12 +49,12 @@ I have been training RAVE in several full audio texture corpora.
 **CONTROLLING GENERATIVE MODELS WITH INTERACTIVE MACHINE LEARNING**
 
 {{<figure src="/img/papers/RAVE-IML-mapping.jpg" alt="CONTROLLING GENERATIVE MODELS WITH INTERACTIVE MACHINE LEARNING">}}
+<div class="text-caption">Many to many mapping to steer latent space explorations.</div>
+
+
 An interactive machine learning environment (such as Wekinator), allows to easily map the low-dimensional peformance space to the highly dimensional neural audio model space.
 
-<!-- {{<video autoplay="0" loop="false" src="/videos" >}} -->
 
-
-<!-- {{<figure src="/img/papers/" alt="Schematic of mapping hand gestures into sound corpus">}} -->
 
 **THOUGHTS**
 

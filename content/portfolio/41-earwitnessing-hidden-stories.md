@@ -34,6 +34,8 @@ hear the word Ñe'ê accompanied by music. Musical instruments also have a spiri
 **In the opening ritual, we will use three broadcasting systems in parallel.** The performance will make use of (i) an Ambisonics 8-channel surround system, (ii) a set of 4 different FM radio signals that will be broadcasted on site and that can be tuned y the audience by using 40 FM radio receivers, and (iii) the online broadcast of a stereo mix that later one can be used for radio broadcast in Deutschlandfunk Kultur’s Klangkunst and Österreichischer Rundfunk’s Ö1 Zeit-Ton or Ö1 Radiokunst. The artists will play with the sound sources through custom digital musical instruments made in MaxMSP, JavaScript, drum machines, and MIDI controllers. Since many of the sound sources are monophonic or stereo signals, for the performance these will be upmixed and spatialized on site.
 
 {{<figure src="/img/others/nehe-mapa-placing.jpg">}}
+<div class="text-caption">Conceptual plan with the components of the live performance</div>
+
 In the figure, we show a conceptual plan with the components of the live performance that will celebrate the opening of the generative radio portal. Different modes of participation are highlighted in red, different activities in greed, and content layers in blue. The arrangement of the loudspeakers and the placement of the stage within the performance space are explained in the accompanying document with the technical requirements. Colors in the map of South America indicate the territories of contemporary Uruguay (light blue) and Chile (red). The larger colored territory on the map (green) corresponds to the countries where Guaraní populations currently live.
 
 

@@ -20,6 +20,6 @@ ABSTRACT
 
 In this paper we extend R-VAE, a system designed for the modeling and exploration of latent spaces of musical rhythms. R-VAE employs a data representation that encodes simple and compound meter rhythms, common in some contemporary popular music genres. It can be trained with small datasets, enabling rapid customization and exploration by individual users. To facilitate the exploration of the la- tent space, we provide R-VAE with a web-based visualizer designed for the dynamic representation of rhythmic latent spaces. To the best of our knowledge, this is the first time that a dynamic visualization has been implemented to observe a latent space learned from rhythmic patterns.
 
-Interactive presentation slides with media (use the arrows to navigate)
 
-{{<website "https://media.vigliensoni.com/projector/AIMC2020/">}}
+{{<website src="https://media.vigliensoni.com/projector/AIMC2020/">}}
+<div class="text-caption">Presentation interactive slides (move with the arrows or click on the image)</div>

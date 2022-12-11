@@ -15,15 +15,11 @@ years = ['2022']
 
 Scintillation is the result of a first time collaboration between CMD and vigliensoni. It explores our joint desires for fast-paced rhythms, propulsive basslines, and affective melodies.
 
-{{<youtube-custom id="7M66o6Sfg0s" yt_start="0" autoplay="false" width="200px" height="200px" color="white" modestbranding="1" class="vertical-video">}}
 
+{{<youtube id="7M66o6Sfg0s">}}
+<br>
 
-
-<br/><br/>
-
-
-
-This is our contribution to the Dance Across Borders Vol. 3 (@danceacrossborders) compilation, the most recent edition of this series raising funds for the human rights organization Solidarity Across Borders (www.solidarityacrossborders.org)— a non-profit that works to protect human rights.
+This is our contribution to the Dance Across Borders Vol. 3 compilation, the most recent edition of this series raising funds for the human rights organization Solidarity Across Borders (www.solidarityacrossborders.org)— a non-profit that works to protect human rights.
 
 [Buy the full album on Bandcamp](https://mtldancesacrossborders.bandcamp.com/album/vol-3-mdab03)
 

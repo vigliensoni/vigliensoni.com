@@ -17,7 +17,7 @@ June 16, 2022. London, UK.
 {{< figure src="/img/shows/g1.gif" alt="Iklectik Art Lab" >}}
  
 
-On 23 June 2022 I performet at Iklectik Art Lab, London, UK. Fellow musicians that night were awesome [oh!t](https://soundcloud.com/ohteee) and [Chris Speed](https://chrisspeedvisuals.com/).
+On 23 June 2022 I performet at Iklectik Art Lab, London, UK, and presented new music. Fellow musicians that night were awesome [oh!t](https://soundcloud.com/ohteee) and [Chris Speed](https://chrisspeedvisuals.com/).
 
 Phone footage by Manuela Martelli, DJ Raff, and Joaquín Echeverría.
 
@@ -25,34 +25,20 @@ Long, smooth background image by Antonia Hernández.
 
 Rad binaural recording by Isa Barzizza. 
 
+{{<youtube id="BBBwH2OghQM"  class="vertical-video">}} 
 
+{{<youtube id="SPMjPq_4lvw" class="vertical-video">}} 
 
-### 
+{{<youtube id="MkEzi6TCLNA" class="vertical-video">}} 
 
-{{<youtube BBBwH2OghQM>}} 
-<br> <br>
+{{<youtube id="1ItC3bVIbDw" class="vertical-video">}} 
 
+{{<youtube id="Ap-H2OlqGPE" class="vertical-video">}} 
 
-{{<youtube SPMjPq_4lvw>}} 
-<br> <br>
+{{<youtube id="O-AQ3g5KhNA" class="vertical-video">}} 
 
-{{<youtube MkEzi6TCLNA>}} 
-<br> <br>
+{{<youtube id="9TeSYEVk3Jc" class="vertical-video">}} 
 
-{{<youtube 1ItC3bVIbDw>}} 
-<br> <br>
-
-{{<youtube Ap-H2OlqGPE>}} 
-<br> <br>
-
-{{<youtube O-AQ3g5KhNA>}} 
-<br> <br>
-
-
-
-
-{{<youtube 9TeSYEVk3Jc>}} 
-<br> <br>
 
 
 

@@ -39,4 +39,4 @@ Address
 
 55 Rue de Louvain O, #480. Montréal, QC H2N1A4
 
-[Workshop link](https://easternbloc.ca/en/lab/wk_ai)
+[Workshop link](https://archives.easternbloc.ca/en/lab/wk_ai)

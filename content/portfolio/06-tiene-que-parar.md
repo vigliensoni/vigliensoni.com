@@ -16,8 +16,8 @@ years = ['2015']
 
 
 
-
-<br><br>
+Produced and performed by Gabriel Vigliensoni
+ 
 
 Fretless bass: Eduardo Caces
 
@@ -30,9 +30,9 @@ A Magical Substance release, AMS-003
 © 2009 Flavio Etcheto and Loló Gasparini ℗ 2015 A Magical Substance
 
 {{<youtube-custom id="kDoJYNWhUBk" autoplay="false" width="200px" height="200px" color="white" modestbranding="1">}}
-Produced and performed by Gabriel Vigliensoni
 
-<br><br>
+
+ 
 
 [MusicBrainz](https://musicbrainz.org/release-group/7ef07b13-0293-4095-8a7b-d9ea6998e675) | [Discogs](https://www.discogs.com/Gabriel-Vigliensoni-Tiene-Que-Parar-Ah%C3%AD/release/6855619)
 

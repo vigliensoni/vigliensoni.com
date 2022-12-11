@@ -17,7 +17,7 @@ Letra y música por Gabriel Vigliensoni e Ignacio Redard.
 Producida por Gabriel Vigliensoni e Ignacio Redard.
 
 {{< bandcamp-track 831152923 >}}
-<br><br>
+ 
 
 Voces adicionales por Vito.
 

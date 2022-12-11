@@ -19,7 +19,7 @@ Compuesto y producido por Lucybell: Francisco González, Marcelo Muñoz, Claudio
 Letras por Claudio Valenzuela.
 
 {{<spotify album 12hPIe3GsNJJ2Sosf8KVw5>}}
-<br><br>
+ 
 
 Grabado en Portátil, Santiago de Chile por Óscar López.
 

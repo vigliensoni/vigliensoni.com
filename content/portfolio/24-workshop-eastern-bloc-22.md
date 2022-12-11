@@ -16,7 +16,7 @@ Eastern Bloc, Montréal.
 <!--more-->
 
 {{< figure src="/img/workshops/eastern-bloc-22.jpg" alt="Interactive machine learning for Musicians and Artists Workshop" >}}
-<br><br>
+ 
 
 The Interactive machine learning for musicians and artists workshop aims at developing technical and personal skills in users and potential users of machine learning in creative contexts in general, and sound and music in particular.
 

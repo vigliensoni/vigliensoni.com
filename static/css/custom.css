@@ -25,6 +25,10 @@
     height: auto;
 }
 
+.video-player {
+    margin-bottom: 24px;
+}
+
 .tagbox a{
     color: rgb(24, 148, 96);
     font-size: smaller;
@@ -142,4 +146,5 @@
     font-size: smaller;
     color: rgb(33, 33, 33);
     text-align: center;
+    margin-bottom: 30px;
 }

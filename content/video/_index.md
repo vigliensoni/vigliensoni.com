@@ -7,7 +7,7 @@ title = "Video"
 
 {{<youtube Kib8Bk2nPEA>}}
 
-<br><br>
+ 
 
 
 Live at MUTEK 2020, Montréal. Live visuals by Eduardo Pérez Infante. Claystone appears in Clastic Music.
@@ -17,7 +17,7 @@ Live at MUTEK 2020, Montréal. Live visuals by Eduardo Pérez Infante. Claystone
 
 {{<youtube _om0tyTA6wQ>}} 
 
-<br><br>
+ 
 
 Live at MUTEK 2018, Montréal. Shale appears in Clastic Music (Chez.Kito.Kat Records CKK-085)
 
@@ -26,7 +26,7 @@ Live at MUTEK 2018, Montréal. Shale appears in Clastic Music (Chez.Kito.Kat Rec
 
 {{<youtube E-USSIWI33c>}} 
 
-<br><br>
+ 
 
 Live performance at Le National, Montréal. Feb 2, 2019.
     
@@ -35,7 +35,7 @@ Live performance at Le National, Montréal. Feb 2, 2019.
 
 {{<youtube JWpK6QFcM3w>}} 
 
-<br><br>
+ 
 
 Live performance at Nocturne1, MUTEK2018. Société des Arts Technologiques, Montréal
 
@@ -45,7 +45,7 @@ Live performance at Nocturne1, MUTEK2018. Société des Arts Technologiques, Mon
 
 {{<youtube RZJYZezZWR4>}}     
 
-<br><br>
+ 
 
 Live performance at Nocturne1, MUTEK2018. Société des Arts Technologiques, Montréal 
 
@@ -55,7 +55,7 @@ Live performance at Nocturne1, MUTEK2018. Société des Arts Technologiques, Mon
 
 {{<youtube C8QY2I0qY7A>}}
 
-<br><br>
+ 
 
 Live performance at Nocturne1, MUTEK2018. Société des Arts Technologiques, Montréal
 
@@ -66,13 +66,13 @@ Live performance at Nocturne1, MUTEK2018. Société des Arts Technologiques, Mon
 
 {{<youtube spwIaVc7zis>}}  
 
-<br><br>
+ 
 
 ### Tango
 
 {{<vimeo 110208653>}}
 
-<br><br>
+ 
 
 Made by Antonia Hernández
 
@@ -82,7 +82,7 @@ Made by Antonia Hernández
 
 {{<youtube x12gVS4NocE>}}    
 
-<br><br>
+ 
 
 Directed by Fran González
 
@@ -93,7 +93,7 @@ Directed by Fran González
 
 {{<youtube MCn7LgH2j1k>}}    
 
-<br><br>
+ 
 
 Directed by Matt Phillips. Visual piece product of a Creative Commons partnership.
 

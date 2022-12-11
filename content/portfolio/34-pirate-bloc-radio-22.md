@@ -16,7 +16,7 @@ Pirate Bloc Radio show.
 <!--more-->
 
 {{< figure src="/img/interviews/pirate-radio-22.jpg" alt="Interview for Pirate Bloc Radio." >}}
-<br><br>
+ 
 
 On April 7th, 2022, I gave a one-hour long interview for the show Pirate Bloc Radio show for CKUT 90.3FM. The interviewer was Malte Leander and we talked about electronic, digital, and new media arts, the communal aspect of exchange in teaching and learning through workshops and the creators space at the center, as well as highlighted artists and practitioners of and around sound art and electronic music.
 

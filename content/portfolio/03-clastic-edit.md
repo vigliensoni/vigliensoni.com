@@ -17,13 +17,20 @@ Clastic (Edit | Restructure) is a shorter version of the one on Clastic Music. J
 
 {{< bandcamp-sm 3356768400>}}
 
-<br><br>
+Composed and produced by Gabriel Vigliensoni.
 
- Magical Substance release, AMS-009
+Mastered by Rupert Clervaux.
 
-(P) 2022 A Magical Substance, (C) 2022 Gabriel Vigliensoni
+Cover Art by Antonia Hernández.
 
-Clastic appears in Clastic Music, released on 21 March 2022 by Chez.Kito.Kat Records 
+A Magical Substance release, AMS-009
+
+Clastic also appears in Clastic Music, released on 21 March 2022 by Chez.Kito.Kat Records
+
+© 2022 A Magical Substance ℗ 2022 Gabriel Vigliensoni
+
+
+
 
 [Bandcamp](https://vigliensoni.bandcamp.com/album/clastic-edit) | [MusicBrainz](https://musicbrainz.org/release-group/92913934-7935-4881-a667-d282de212a6e) | [Discogs](https://www.discogs.com/release/22726970-vigliensoni-Clastic-Edit)
 

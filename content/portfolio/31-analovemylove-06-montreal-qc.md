@@ -15,7 +15,7 @@ April 29, 2022. Montreál, QC.
 <!--more-->
 
 {{< figure src="/img/shows/ANALOVE7-INSTA.jpg" alt="Analovemylog 7" >}}
-<br><br>
+ 
 
 On June 29, 2022 I'll be presenting new material for the sixth edition of Chez.Kito.Kat Records' Analovemylog series.
 

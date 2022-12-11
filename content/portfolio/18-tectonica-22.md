@@ -18,6 +18,9 @@ Aired on February 17, 2022
 
 {{<soundcloud-track 1217159512>}}
 
+{{<figure src="/img/playlist/tectonica-1-800.jpg">}}
+
+{{<figure src="/img/playlist/tectonica-playlists-2.jpg">}}
 
 #### Playlist
 

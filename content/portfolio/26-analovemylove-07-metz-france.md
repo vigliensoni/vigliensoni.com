@@ -15,7 +15,7 @@ June 20, 2022. Metz, France.
 <!--more-->
 
 {{< figure src="/img/shows/ANALOVE7-INSTA.jpg" alt="Analovemylog 7" >}}
-<br><br>
+ 
 
 On June 20, 2022 I'll be performing for the first time in Metz, France, as part of the Analovemylog night organized by Chez.Kito.Kat Records.
 

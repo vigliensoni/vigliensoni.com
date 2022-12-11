@@ -17,7 +17,7 @@ Letra y música por Ignacio Redard y Gabriel Vigliensoni.
 Producida por Ignacio Redard, Gabriel Vigliensoni y Lucy C.
 
 {{< bandcamp-track 1922788386 >}}
-<br><br>
+ 
 
 
 Mezclada por Barry Sage en Estudio Home (CL).

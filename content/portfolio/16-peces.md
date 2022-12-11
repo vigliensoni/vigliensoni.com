@@ -17,7 +17,7 @@ By _Lucybell_
 Todas las canciones creadas e interpretadas por Lucybell: Francisco González, Marcelo Muñoz, Claudio Valenzuela, Gabriel Vigliensoni.
 
 {{<spotify album 4pvzTHkfxiiP6cCpePwSPm>}}
-<br><br>
+ 
 
 Grabado, mezclado y producido en Agosto de 1994 por Mario Breuer.
 

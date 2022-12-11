@@ -21,7 +21,7 @@ September 22–23, 2022. Morelia and CDMX, México.
 <!--more-->
 
 
-<br><br>
+ 
 
 I'm happy to announce that on September 23rd, I'll be performing at [Visiones Sonoras 18](https://en.cmmas.com/vs18), the Festival Internacional de Música y Nuevas Tecnologías 2022 in Morelia, México. The festival is organized by [CMMAS, the Centro Mexicano para la Música y las Artes Sonoras.](https://cmmas.org/)
 
@@ -41,7 +41,7 @@ On the 24th, I'll be performing at 316Centro alongside fellow artists CNDSD, Iv�
 
 {{<youtube WAYtDg7it2E>}} 
 
-<br><br>
+ 
 
 {{<youtube N87YdYn7I4I>}} 
 

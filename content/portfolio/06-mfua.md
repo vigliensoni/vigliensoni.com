@@ -13,6 +13,8 @@ years = ['2018']
 
 <!--more-->
 
+Conceived and produced by Gabriel Vigliensoni during winter, 2018.
+
 I wanted to try something new in terms of musical composition, so I decided to experiment with a non-linear approach. This involved setting up a system with certain rules and parameters, and then allowing it to run for a predetermined amount of time. By doing this, I hoped to create a piece of music that was unique and created through a process that was different from my typical compositional and improvisatorial approach.
 
 {{< bandcamp-sm 2323618290 >}}
@@ -27,20 +29,21 @@ The result was a soothing music track that was a reflection of the original samp
 
 Since this track is more a process than a linear piece of music, there are several different versions of it available (i.e., cassette version, SoundCloud, and other streaming providers) 
 
-Conceived and produced by Gabriel Vigliensoni during winter, 2018.
+
 
 
 Released by No Problema Tapes (NOP-079)
 
 © 2018 Gabriel Vigliensoni ℗ 2018 No Problema Tapes
 
-<br><br>
+ 
 
 
 {{<youtube-custom id="spwIaVc7zis" yt_start="0" autoplay="false" width="200px" height="200px" color="white" modestbranding="1" class="vertical-video">}}
 
 
-<br><br>
+ 
+<br>
 
 [MusicBrainz](https://musicbrainz.org/release-group/f5466b96-f5c9-4455-845a-56bd10cc2b32) | [Discogs](https://www.discogs.com/vigliensoni-Michael-Saved-Us-All/master/1415423)
 

@@ -15,7 +15,7 @@ June 16, 2022. London, UK.
 <!--more-->
 
 {{< figure src="/img/shows/g1.gif" alt="Iklectik Art Lab" >}}
-<br><br>
+ 
 
 On 23 June 2022 I performet at Iklectik Art Lab, London, UK. Fellow musicians that night were awesome [oh!t](https://soundcloud.com/ohteee) and [Chris Speed](https://chrisspeedvisuals.com/).
 

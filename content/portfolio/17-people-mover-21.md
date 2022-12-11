@@ -18,6 +18,8 @@ Aired on December 5, 2021
 
 {{<soundcloud-track 1172958553>}}
 
+{{<figure src="/img/playlists/people-mover-playlist-800.jpg">}}
+
 
 #### Playlist
 

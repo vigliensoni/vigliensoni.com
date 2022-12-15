@@ -42,7 +42,7 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Featured"
   url = "categories/featured"
   home = true
 

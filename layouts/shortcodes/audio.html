@@ -1,0 +1,15 @@
+<!-- <video class="video-shortcode" preload="{{ .Get "preload" }}" 
+{{ with .Get "autoplay" }}{{ if eq . "true" }} autoplay {{ end }}{{ end }}
+{{ with .Get "loop" }}{{ if eq . "true" }} loop {{ end }}{{ end }} 
+{{ with .Get "controls" }}{{ if eq . "true" }} controls {{ end }}{{ end }} >
+    <source src="{{ .Get "src" }}" type="{{ .Get "type" }}">
+    There should have been a video here but your browser does not seem
+    to support it.
+</video> -->
+
+<figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
+    <audio controls preload="{{ .Get "preload" | default "metadata" }}">
+    {{ with .Get "src" }}<source src="{{ .  | relURL }}" type="audio/mpeg">{{ end }}
+    {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+    </audio>
+</figure>

@@ -5,7 +5,7 @@ image = "img/others/transmediale-akademie-corridor-800.jpg"
 date = "2023-02-2T19:59:22+05:30"
 title = "Holy waters soundscape"
 weight = 12
-categories = ['music']
+categories = ['music', 'featured']
 tags = ['research', 'sound design']
 years = ['2023']
 +++

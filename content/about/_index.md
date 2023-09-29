@@ -8,7 +8,7 @@ I am a Montréal-based music artist, producer,  performer, and researcher whose 
 {{< figure src="../img/pics-me/session/VIGLIENSONI-1-photo-by-GAB-DEL-CANTO-800.jpg" width="400px" >}}
 
 
-I have been involved in a variety of projects throughout his lengthy musical career, performing, producing, and composing. In all these projects, I have sought to incorporate a  interlocked rhythms, edgy synth melodies, and sonic experimentation. With an emphasis on practice, I am  always searching for new ways to communicate a radical approach to music-making with the audience, and to bring liveness and immediacy to the workflow of digital music production and performance.
+I have been involved in a variety of projects throughout my musical career, performing, producing, and composing. In all these projects, I have sought to incorporate a  interlocked rhythms, edgy synth melodies, and sonic experimentation. With an emphasis on practice, I am  always searching for new ways to communicate a radical approach to music-making with the audience, and to bring liveness and immediacy to the workflow of digital music production and performance.
 
 {{< figure src="../img/pics-me/session/VIGLIENSONI-9-photo-by-GAB-DEL-CANTO-800.jpg" width="400px" >}}
 

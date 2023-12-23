@@ -17,12 +17,14 @@ The contemporary and rapidly changing new music economy landscape requires resea
 **Vigliensoni, G.**, and R. Fiebrink. 2023. Steering latent audio models through interactive machine learning. In _Proceedings of the 14th International Conference on Computational Creativity (ICCC'23)_.
 [doi.org/10.5281/zenodo.8087978](https://doi.org/10.5281/zenodo.8087978).
 
-
-
-
-
-
 **Vigliensoni, G.**, and R. Fiebrink. 2023. Interacting with neural audio synthesis models through interactive machine learning. In _The First International Workshop on eXplainable AI for the Arts at the ACM Creativity and Cognition Conference (XAIxArts2023)_.
+
+**Vigliensoni, G.**, and R. Fiebrink. 2023. Re•col•lec•tions: Sharing sonic memories through interactive machine learning and neural audio synthesis models. _In Creative AI track of the 37th Conference on Neural Information Processing Systems (NeurIPS 2023)_.
+
+Shimizu, J., I. Olowe, T. Broad, **G. Vigliensoni**, P. Thattai, and R. Fiebrink. 2023. Interactive machine learning for generative models. In _Proceedings of the Machine Learning for Creativity and Design Workshop, 37th Conference on Neural Information Processing Systems (NeurIPS 2023)_.
+
+Fujinaga, I, and **G. Vigliensoni**. 2023. Optical music recognition workflow for medieval music manuscripts. In_ Proceedings of the 5th International Workshop on Reading Music Systems (WoRMS 2023)_.
+
 
 
 ### 2022

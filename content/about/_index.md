@@ -3,7 +3,7 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-I am a Montréal-based music artist, producer, performer, and researcher whose work interrogate the different stages of contemporary music production’s workflow, always transforming the process of making a record into a playing field for experimentation and learning. Having studied sound recording and music technology in Santiago and Montréal, and carried out research on machine learning for creative practice in London, I am equally grounded on the current state-of-the-art and experimental techniques for music-making as well as on the electronic music subcultures surrounding house and techno.
+I am a Montréal-based music artist, producer, performer, and researcher. My work explores the various stages of contemporary music production, always transforming record-making into a field for experimentation and learning. With studies in sound recording and music technology in Santiago and Montréal, and research in machine learning for creative practice in London, I am equally grounded on the current state-of-the-art and experimental techniques for music-making as well as on the electronic music subcultures surrounding house and techno.
 
 {{< figure src="../img/pics-me/session/VIGLIENSONI-1-photo-by-GAB-DEL-CANTO-800.jpg" width="400px" >}}
 

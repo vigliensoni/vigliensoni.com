@@ -14,7 +14,7 @@ The contemporary and rapidly changing new music economy landscape requires resea
 
 ### 2024
 
-Tecks, A., T. Peschlow, and **G. Vigliensoni**. 2024. Explainability Paths for Sustained Artistic Practice. In _Proceedings of the the Second International Workshop on eXplainable AI for the Arts at the ACM Creativity and Cognition Conference (XAIxArts2024)_.
+Tecks, A., T. Peschlow, and **G. Vigliensoni**. 2024. Explainability paths for sustained artistic practice. In _Proceedings of the the Second International Workshop on eXplainable AI for the Arts at the ACM Creativity and Cognition Conference (XAIxArts2024)_.
 
 Bryan-Kinns, N., C. Ford, S. Zheng, H. Kennedy, A. Chamberlain, M. Lewis, D. Hemment, Z. Li, Q. Wu, L. Xiao, G. Xia, J. Rezwana, M. Clemens, and **G. Vigliensoni**. Explainable AI for the Arts 2 (XAIxArts2). In _Proceedings of the ACM Creativity and Cognition Conference (C&C ’24)_. [https://doi.org/10.1145/3635636.36607](https://doi.org/10.1145/3635636.36607)
 

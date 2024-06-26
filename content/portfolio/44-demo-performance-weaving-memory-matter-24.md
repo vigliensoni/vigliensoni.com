@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/covers/ircam-2024.png"
+image = "img/covers/ircam-2024-sq.jpg"
 date = "2024-06-25T19:59:22+05:30"
 title = "Weaving memory matter: Steering latent audio models through interactive machine learning"
 weight = 10

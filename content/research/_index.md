@@ -56,7 +56,8 @@ Regimbal, J., **G. Vigliensoni**, C. Hutnik, and I. Fujinaga. 2020. IIIF-based l
 
 ### 2019
 
-Fujinaga, I., and **G. Vigliensoni** 2019. The Art of Teaching Computers: The SIMSSA Optical Music Recognition Workflow System. In _Proceedings of the 27th European Signal Processing Conference_.
+Fujinaga, I., and **G. Vigliensoni** 2019. The Art of Teaching Computers: The SIMSSA Optical Music Recognition Workflow System. In _Proceedings of the 27th European Signal Processing Conference_. [doi.org/10.23919/eusipco.2019.8902658](https://doi.org/10.23919/eusipco.2019.8902658)
+
 
 **Vigliensoni, G.**, A. Daigle, E. Liu, J. Calvo-Zaragoza, J. Regimbal, M. A. Nguyen, N. Baxter, Z. McLennan, and I. Fujinaga. 2019. Overcoming the challenges of optical music recognition of Early Music with machine learning. _Digital Humanities Conference 2019_.
 
@@ -68,9 +69,9 @@ Fujinaga, I., and **G. Vigliensoni** 2019. The Art of Teaching Computers: The SI
 
 Castellanos, F., J. Calvo-Zaragoza, G. Vigliensoni, and I. Fujinaga. 2018. Document analysis of music score images with selectional auto-encoders. In _Proceedings of the 19th International Society for Music Information Retrieval Conference_.
 
-Nápoles, N., **G. Vigliensoni**, and I. Fujinaga. 2018. Encoding matters. In _Proceedings of the 5th International Conference on Digital Libraries for Musicology_. 
+Nápoles, N., **G. Vigliensoni**, and I. Fujinaga. 2018. Encoding matters. In _Proceedings of the 5th International Conference on Digital Libraries for Musicology_. [doi.org/10.1145/3273024.3273027](https://doi.org/10.1145/3273024.3273027)
 
-Calvo-Zaragoza, J., F. Castellanos, **G. Vigliensoni**, and I. Fujinaga. 2018. Deep neural networks for document processing of music score images. _Applied Sciences_, 8(5), 654. DOI:10.3390/app8050654.
+Calvo-Zaragoza, J., F. Castellanos, **G. Vigliensoni**, and I. Fujinaga. 2018. Deep neural networks for document processing of music score images. _Applied Sciences_, 8(5), 654. [doi.org/10.3390/app8050654](https://doi.org/10.3390/app8050654)
 
 **Vigliensoni, G.**, J. Calvo-Zaragoza, and I. Fujinaga. 2018. An environment for machine pedagogy: Learning how to teach computers to read music. In _Proceedings of the Intelligent Music Interfaces for Listening and Creation_ workshop. 
 
@@ -82,17 +83,17 @@ Vigliensoni G., D. Romblom, M. P. Verge, and C. Guastavino. 2017. Perceptual eva
 
 Calvo-Zaragoza, J., **G. Vigliensoni**, and I. Fujinaga. 2017. One-step detection of background, staff lines, and symbols in medieval music manuscripts with convolutional neural networks. In _Proceedings of the 18th International Society for Music Information Retrieval Conference_.
 
-Barone, M., K. Dacosta, **G. Vigliensoni**, and M. Woolhouse. 2017. GRAIL: Database linking music metadata across artist, release, and track. In _Proceedings of the 4th International Workshop on Digital Libraries for Musicology_. 
+Barone, M., K. Dacosta, **G. Vigliensoni**, and M. Woolhouse. 2017. GRAIL: Database linking music metadata across artist, release, and track. In _Proceedings of the 4th International Workshop on Digital Libraries for Musicology_. [doi.org/10.1145/3144749.3144760](https://doi.org/10.1145/3144749.3144760)
 
-Calvo-Zaragoza, J., **G. Vigliensoni**, and I. Fujinaga. 2017. Music document layout analysis through machine learning and human feedback. In _Proceedings of the 12th IAPR International Workshop on Graphics Recognition_.
+Calvo-Zaragoza, J., **G. Vigliensoni**, and I. Fujinaga. 2017. Music document layout analysis through machine learning and human feedback. In _Proceedings of the 12th IAPR International Workshop on Graphics Recognition_. [doi.org/10.1109/icdar.2017.259](https://doi.org/10.1109/icdar.2017.259)
 
-Saleh, Z., K. Zhang,  J. Calvo-Zaragoza, **G. Vigliensoni**, and I. Fujinaga. 2017. Pixel.js: Web-based pixel classification correction platform for ground truth creation. In _Proceedings of the 12th IAPR International Workshop on Graphics Recognition_.
+Saleh, Z., K. Zhang,  J. Calvo-Zaragoza, **G. Vigliensoni**, and I. Fujinaga. 2017. Pixel.js: Web-based pixel classification correction platform for ground truth creation. In _Proceedings of the 12th IAPR International Workshop on Graphics Recognition_. [doi.org/10.1109/icdar.2017.267](https://doi.org/10.1109/icdar.2017.267)
 
-Calvo-Zaragoza, J., **G. Vigliensoni**, and I. Fujinaga. 2017. Pixelwise classification for music document analysis. In _Proceedings of the 2017 Seventh International Conference on Image Processing Theory, Tools, and Applications_.
+Calvo-Zaragoza, J., **G. Vigliensoni**, and I. Fujinaga. 2017. Pixelwise classification for music document analysis. In _Proceedings of the 2017 Seventh International Conference on Image Processing Theory, Tools, and Applications_. [doi.org/10.1109/ipta.2017.8310134](https://doi.org/10.1109/ipta.2017.8310134)
 
-Calvo-Zaragoza, J., **G. Vigliensoni**, and I. Fujinaga. 2017. Pixel-wise binarization of musical documents with Convolutional Neural Networks. In _Proceedings of the 15th IAPR Conference on Machine Vision Applications_.
+Calvo-Zaragoza, J., **G. Vigliensoni**, and I. Fujinaga. 2017. Pixel-wise binarization of musical documents with Convolutional Neural Networks. In _Proceedings of the 15th IAPR Conference on Machine Vision Applications_. [doi.org/10.23919/mva.2017.7986876](https://doi.org/10.23919/mva.2017.7986876)
 
-Calvo-Zaragoza, J., **G. Vigliensoni**, and I. Fujinaga. 2017. Staff-line detection on greyscale images with pixel classification. In _Proceedings of the 8th Iberian Conference on Pattern Recognition and Image Analysis_.
+Calvo-Zaragoza, J., **G. Vigliensoni**, and I. Fujinaga. 2017. Staff-line detection on greyscale images with pixel classification. In _Proceedings of the 8th Iberian Conference on Pattern Recognition and Image Analysis_. [doi.org/10.1007/978-3-319-58838-4_31](https://doi.org/10.1007/978-3-319-58838-4_31)
 
 Barone, M., K. Dacosta, **G. Vigliensoni**, and M. Woolhouse. 2017. GRAIL: A general recorded audio identity linker. Late breaking session _17th International Society for Music Information Retrieval Conference_.
 
@@ -106,7 +107,7 @@ Calvo-Zaragoza, J., **G. Vigliensoni**, and I. Fujinaga. 2017. A machine learnin
 
 Calvo-Zaragoza, J., **G. Vigliensoni**, and I. Fujinaga. 2016. Staff-line detection on greyscale images with pixel classification. Late breaking session _17th International Society for Music Information Retrieval Conference_.
 
-Calvo-Zaragoza, J., **G. Vigliensoni**, and I. Fujinaga. 2016. Document analysis for music scores via machine learning. _3rd International Digital Libraries for Musicology workshop_. 
+Calvo-Zaragoza, J., **G. Vigliensoni**, and I. Fujinaga. 2016. Document analysis for music scores via machine learning. _3rd International Digital Libraries for Musicology workshop_. [doi.org/10.1145/2970044.2970047](https://doi.org/10.1145/2970044.2970047)
 
 ### 2015
 
@@ -118,7 +119,7 @@ Barone, M., K. Dacosta, **G. Vigliensoni**, and M. Woolhouse. 2015. GRAIL: A mus
 
 **Vigliensoni, G.**, and I. Fujinaga. 2014. Time-shift normalization and listener profiling in a large dataset of music listening histories. _Fourth annual Seminar on Cognitively Based Music Informatics Research_.
 
-**Vigliensoni, G.**, and I. Fujinaga. 2014. Identifying time zones in a large dataset of music listening logs. In _Proceedings of the International Workshop on Social Media Retrieval and Analysis_.
+**Vigliensoni, G.**, and I. Fujinaga. 2014. Identifying time zones in a large dataset of music listening logs. In _Proceedings of the International Workshop on Social Media Retrieval and Analysis_. [doi.org/10.1145/2632188.2632203](https://doi.org/10.1145/2632188.2632203)
 
 ### 2013
 
@@ -132,7 +133,7 @@ Barone, M., K. Dacosta, **G. Vigliensoni**, and M. Woolhouse. 2015. GRAIL: A mus
 
 Hankinson, A., J. A. Burgoyne, **G. Vigliensoni**, A. Porter, J. Thompson, W. Liu, R. Chiu, and I. Fujinaga. 2012. Digital document image retrieval using optical music recognition. In _Proceedings of the International Society for Music Information Retrieval Conference_.
 
-Hankinson, A., J. A. Burgoyne, **G. Vigliensoni**, and I. Fujinaga. 2012. Creating a large-scale searchable digital collection from printed music materials. In _Proceedings of Advances in Music Information Research_.
+Hankinson, A., J. A. Burgoyne, **G. Vigliensoni**, and I. Fujinaga. 2012. Creating a large-scale searchable digital collection from printed music materials. In _Proceedings of Advances in Music Information Research_. [doi.org/10.1145/2187980.2188221](https://doi.org/10.1145/2187980.2188221)
 
 ### 2011
 

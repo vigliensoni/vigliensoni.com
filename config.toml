@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Website for music artist and researcher Gabriel Vigliensoni."
-  copyright = "&copy;2024 Gabriel Vigliensoni"
+  copyright = "&copy;2025 Gabriel Vigliensoni"
   sidebarAbout = [
     "Music artist and researcher.",
     # "Originally from Toronto, currently based in London."

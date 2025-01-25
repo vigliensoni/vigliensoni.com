@@ -12,6 +12,10 @@ The contemporary and rapidly changing new music economy landscape requires resea
 
 ## Publications
 
+### 2025
+
+**Vigliensoni, G.**, and R. Fiebrink. 2025. Data- and interaction-driven approaches for sustained musical practices with machine learning. _Journal of New Music Research_, January, 1–14. [doi:10.1080/09298215.2024.2442361](https://doi.org/10.1080/09298215.2024.2442361).
+
 ### 2024
 
 Tecks, A., T. Peschlow, and **G. Vigliensoni**. 2024. Explainability paths for sustained artistic practice. In _Proceedings of the the Second International Workshop on eXplainable AI for the Arts at the ACM Creativity and Cognition Conference (XAIxArts2024)_.  [doi.org/10.48550/arxiv.2407.15216](https://doi.org/10.48550/arxiv.2407.15216)

@@ -16,6 +16,21 @@ The contemporary and rapidly changing new music economy landscape requires resea
 
 **Vigliensoni, G.**, and R. Fiebrink. 2025. Data- and interaction-driven approaches for sustained musical practices with machine learning. _Journal of New Music Research_, January, 1–14. [doi:10.1080/09298215.2024.2442361](https://doi.org/10.1080/09298215.2024.2442361).
 
+
+Bryan-Kinns, N., S. Zheng, F. Castro, M. Lewis, and J. Chang, **G. Vigliensoni**, T. Broad, M. P. Clemens, and E. Wilson. 2025. XAIxArts Manifesto: Explainable AI for the Arts. In _Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems_. [doi:10.1145/3706599.3716227](https://arxiv.org/abs/2502.21220)
+
+Ford, C., E. Wilson, S. Zheng, **G. Vigliensoni**, J. Rezwana, L. Xiao, M. Clemens, M. Lewis, D. Hemment, A. Chamberlain, H. Kennedy, and N. Bryan-Kinns. Explainable AI for the Arts 3 (XAIxArts2). In _Proceedings of the ACM Creativity and Cognition Conference (C&C ’25)_.
+
+Nickel, V., and **G. Vigliensoni**. 2025. Sonic lead: A survey of sound-first games. To be published in _Proceedings of the Digital Games Research Association (DiGRA)_.
+
+Bryan-Kinns, N., A. Wszeborowska, O. Sutskova, E. Wilson, P. Perry, R. Fiebrink, **G. Vigliensoni**, R. Lindell, A. Coronel, and N. Correia. 2025. Responsible and ethical use of AI for music: The value of small datasets. To be published in _Proceedings of AM.ICAD 2025 (Audio Mostly + International Conference on Auditory Display: Joint Conference)_.
+
+Nguyen, V., and **G. Vigliensoni**. 2025. Embedding visual thinking into an AI-driven furniture design critiquing system. To be published in _Proceedings of the International Conference on Computational Creativity (ICCC)_.
+
+<!-- Nguyen, V., and **G. Vigliensoni**. 2025. fCrit: A visual explanation system for furniture design creative support. Submitted to Explainable AI for the Arts 3 (XAIxArts 2025). -->
+
+
+
 ### 2024
 
 Tecks, A., T. Peschlow, and **G. Vigliensoni**. 2024. Explainability paths for sustained artistic practice. In _Proceedings of the the Second International Workshop on eXplainable AI for the Arts at the ACM Creativity and Cognition Conference (XAIxArts2024)_.  [doi.org/10.48550/arxiv.2407.15216](https://doi.org/10.48550/arxiv.2407.15216)

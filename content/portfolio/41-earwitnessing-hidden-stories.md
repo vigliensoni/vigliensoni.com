@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 image = "/img/others/mapa.jpg"
-date = "2021-12-9T19:59:22+05:30"
+date = "2021-12-09T19:59:22+05:30"
 title = "Ñe'ê: Earwitnessing hidden stories from the South"
 weight = 20
 categories = ['music', 'research']
